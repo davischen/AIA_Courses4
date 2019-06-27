@@ -1,0 +1,135 @@
+6/17
+-----------------------------------------------
+19999_question_category_a_v13.csv
+電腦網路不通 > 5000
+作業系統與印表機 > 1500
+
+category	count
+Outlook與郵件	3653
+SAP	1443
+其他	2453
+網路	4234 
+資訊系統	1386
+
+0.843
+-----------------------------------------------
+19999_question_category_a_v13.csv
+不抽樣
+
+category	
+Outlook與郵件	3653
+SAP	1443
+其他	3963
+網路	6157
+資訊系統	1386
+
+0.863
+-----------------------------------------------
+19999_question_category_a_v13.csv
+作業系統與印表機 >> 1500
+
+category	count
+Outlook與郵件	3645
+SAP	1443
+其他	3956
+網路	6147
+資訊系統	1384
+
+# 字典數量
+NUM_WORDS = 5001
+# 向量長度
+MAX_LEN = 30
+
+batch_size = 20
+filters = 7
+kernel_size = 5
+epochs = 50
+train_ratio = 0.9
+
+0.858
+-----------------------------------------------
+19999_question_category_a_v13.csv
+作業系統問題 >> 1000
+其他 >> 3500
+
+category	count
+Outlook與郵件	3643
+SAP	1443
+其他	2599
+網路	6144
+資訊系統	1380
+
+batch_size = 20
+filters = 32
+kernel_size = 5
+epochs = 50
+train_ratio = 0.9
+
+0.85
+-----------------------------------------------
+19999_question_category_a_v13.csv
+作業系統問題 >> 1000
+其他 >> 1500
+
+category	count
+Outlook與郵件	3629
+SAP	1443
+其他	1107
+網路	6142
+資訊系統	1380
+
+驗證:0.88
+測試:0.77
+這樣比較不會去猜 其他類 精準度會提高 但實際上比較不一定準
+-----------------------------------------------
+19999_question_category_a_v13.csv
+電腦網路不通 >> 6000
+作業系統問題 >> 800
+其他 >> 2000
+
+category	count
+Outlook與郵件	3629
+SAP	1443
+其他	1494
+網路	4867
+資訊系統	1380
+
+Embedding Dropout(0.75)
+
+驗證:0.84
+測試:0.85
+
+-----------------------------------------------
+19999_question_category_b_sap.csv
+
+stopwords=False
+batch_size = 20
+filters = 32
+kernel_size = 7
+epochs = 50
+train_ratio = 0.9
+
+accuracy : 0.8568129330254042
+
+19999_question_category_b_is.csv
+0.82
+
+-----------------------------------------------
+19999_question_category_a_v15.csv
+驗證:0.88
+測試:0.85
+
+
+19999_question_category_b_is_v2.csv
+拿掉系統斷詞
+0.84
+
+19999_question_category_b_sap_v2.csv
+拿掉系統斷詞
+0.85
+
+-----------------------------------------------
+19999_question_category_a_v16.csv
+
+驗證:0.89
+測試:0.92
