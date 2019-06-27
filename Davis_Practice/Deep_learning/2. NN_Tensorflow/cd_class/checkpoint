@@ -1,0 +1,6 @@
+model_checkpoint_path: "bestweight.ckpt-30"
+all_model_checkpoint_paths: "bestweight.ckpt-18"
+all_model_checkpoint_paths: "bestweight.ckpt-19"
+all_model_checkpoint_paths: "bestweight.ckpt-22"
+all_model_checkpoint_paths: "bestweight.ckpt-27"
+all_model_checkpoint_paths: "bestweight.ckpt-30"
