@@ -1,0 +1,1142 @@
+description,category_a,category_b,category_c,category_d,category,description_clean,category_target
+Error code 88,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,error code 88,1
+無法進入SAP268，請幫忙處理，謝謝！,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap268,1
+218用部門帳號進不去  ext.15856,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,218用部門帳號進不去,1
+218無法登入login失敗,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,218login失敗,1
+SAP218 無法登入,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap218,1
+帳號登入多次錯誤被鎖  Ext.17561,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,帳號登入錯誤被鎖,1
+連不上218,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,連不上218,1
+298無法logon --修改路徑完成,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,298無法logon 路徑完成,1
+298無法login,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,298無法login,1
+無法登入顯示CS33錯誤,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,顯示cs33錯誤,1
+218帳號無法登入,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,218帳號,1
+"使用者登入SAP,出現 Error Message_Type_X 的錯誤訊息.",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,登入sap出現 error message_type_x 的錯誤訊息,1
+使ECN:E200510-0770尽快在268生效,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,使ecne0儘快在268生效,1
+298   MM02   quanta PN#   Sales view  沒有maintain  quanta PN#: FAQN9001011    分機: 2649,SAP-2X8(QSMC),SD,Master Data,Sales view maintain,SAP-2X8,298   mm02   quanta pn   sales view  沒有maintain  quanta pn faqn11,1
+"USER反應ECN已經到SAP168,但在SAP268還找不到資料,煩請相關同仁協助處理.",SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,ecn已經到sap168但在sap268還資料相關,1
+資料送不過去EC系統,SAP-2X8(QSMC),PP,ECN,放量,SAP-2X8,資料送去ec系統,1
+E200509-4814   FBS04001016应变为FR状态,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,e9   fbs應變為fr狀態,1
+"新增customer 資料,送出後看不到付款方式",SAP-2X8(QSMC),SD,Master Data,Customer issue,SAP-2X8,新增customer 資料送出後看不到付款方式,1
+希望使ECN：E200509-3959，E200510-0181 尽快在268生效,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,希望使ecne99e0 儘快在268生效,1
+"User 反應 218端BOM 用量不對,料號3123MMB00B5,請速連繫# 3158",SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,218端bom 用量料號mmb00b5請速,1
+目前人在QSMC出差 需要查QSMC庫存  請幫忙遠端安裝SAP軟體  謝謝,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,需要查庫存  遠端安裝sap軟體,1
+Password似乎有問題無法進SAP208，麻煩處理，謝謝！,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,password似乎有問題無法進sap208,1
+268在第二層LOGIN無法順利登入   分機:15820,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,268在第二層login無法順利登入,1
+sap 208 無法login,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 208 無法login,1
+SAP操作錯誤 #(381) 12177,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap操作錯誤,1
+268 logon fail,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,268 logon fail,1
+208帳號無法登入,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,208帳號,1
+"同仁SAP 268顯示他帳號已經logon 無法再次login, 煩請協助處理",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 268顯示他帳號已經logon 無法再次login,1
+"MYQUANTA的內部應用看不到SAP Icon ,之前可以看.user目前人在大陸",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,myquanta的內部應用看不到sap icon 之前可以看,1
+user跑ZV14單筆去跑可以跑出sales org 但是跑background跑不出資料 請協助處理，之前已經在APP0001247反應過，請再確認是否已經處理完畢。,SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,跑zv14單筆去跑可以跑出sales org 跑background跑不出資料 之前已經在app47反應過請再是否已經完畢,1
+so fail VA01-Va03 fail,SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,so fail va01va03 fail,1
+BOI的，是用BAPI開SO有帶價格過去，但是在ZN26選了以SO當價格，還是抓不到價格,SAP-2X8(QSMC),SD,Sales Process,Billing issue,SAP-2X8,boi的是用bapi開so有帶價格過去在zn26選了以so當價格抓不到價格,1
+sales BOM無法上傳到SAP。#12670,SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,sales bom無法上傳到sap,1
+"user做SO change後按存檔,但系統顯示無法存檔,T-code:VA02",SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,做so change後按存檔但系統顯示無法存檔tcodeva02,1
+"USER欲連線到SAP298,請求協助相關連線設定",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,欲連線到sap298請求協助相關連線設定,1
+sap 268 client password error  17667陳小姐,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 268 client password error,1
+created 第二層帳號於RD10下,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,created 第二層帳號於rd10下,1
+無法登入SAP (無權限),SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 無權限,1
+公用帳號:95091804  user is lock，分機13229,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,公用帳號   is lock,1
+第一層帳號被鎖住(sap-268)    #15101,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,第一層帳號被鎖住sap268,1
+268無法LOGON,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,268無法logon,1
+"USER欲連結SAP268系統,出現錯誤訊息,經重設路徑後已解決",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,欲連結sap268系統訊息經重設路徑後,1
+"SAP can not log in 268 , 3141",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap can not log in 268,1
+SAP208無法logon,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap208無法logon,1
+更新SAP logon文件之後 168可以上 208上不去 請協助處理,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,更新sap logon文件之後 168可以上 208上不去,1
+SAP258無法登入,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap258,1
+created 第二層帳號於RD10下,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,created 第二層帳號於rd10下,1
+SAP168/218 LOGON BALANCE ERROR:88,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap168/218 logon balance error88,1
+"詢問268,298的登入密碼",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,詢問的登入密碼,1
+298 Can''t logon-修改路徑,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,298 can''t logon路徑,1
+ECN NO.: E200510-1851  转入218,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,ecn no. e0  轉入218,1
+customer data create error #26068,SAP-2X8(QSMC),SD,Master Data,Customer issue,SAP-2X8,customer data create error,1
+E200510-2463.  E200510-2468  转入218,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,e0.  e0  轉入218,1
+ECN：E200509-4407生效后，GAOVC2MB6G4应由IE状态转为FR状态，但是目前此料仍为IE状态,SAP-2X8(QSMC),PP,ECN,放量,SAP-2X8,ecne9生效後gaovc2mb6g4應由ie狀態轉為fr狀態目前此料仍為ie狀態,1
+ECN NO.:E200510-1453  转入298,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,ecn no.e0  轉入298,1
+cost BOM被luck住,SAP-2X8(QSMC),SD,Master Data,Cost center issue,SAP-2X8,cost bom被luck住,1
+Master Data Issue,SAP-2X8(QSMC),SD,Master Data,Sales view maintain,SAP-2X8,master data,1
+Delivery無法新增,SAP-2X8(QSMC),SD,Master Data,Return/Reverse order type,SAP-2X8,delivery無法新增,1
+E200510-0992  转入218,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,e0  轉入218,1
+"ECN No. E200508-2802 未同步至client 298,請協助解決.",SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,ecn no. e8 未同步至client 298,1
+User would like to speed up ECN process.  ECN: 1200601-4939.,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,would like to speed up ecn process.  ecn,1
+ECN still does not show up in 268.  APP0005807,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,ecn still does not show up in 268.  app07,1
+尽快使E200510-0989在268生效,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,儘快使e0在268生效,1
+料号：3LZL1LBTN23 在298系统未增加一个MANUF  ECN号：E200510-0092,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,料號3lzl1lbtn23 在298系統未增加一個manuf  ecn號e0,1
+SAP268 VL01無法create delivery資料,SAP-2X8(QSMC),HOME,TOP,問題解決及操作詢問,SAP-2X8,sap268 vl01無法create delivery資料,1
+"欲刪除檔案但無作用, 請協助處理 #72359",SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,欲刪除檔案但無作用,1
+user想刪除一筆packing 請協助處理,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,想刪除一筆packing,1
+"達丰user反應使用SAP218系統操作時發生Delivery no function的問題,煩請Charles協助處理.",SAP-2X8(QSMC),SD,Sales Process,Delivery issue,SAP-2X8,達豐使用sap218系統操作時發生delivery no function的問題charles,1
+t code 有問題,SAP-2X8(QSMC),SD,Sales Process,Delivery issue,SAP-2X8,t code 有問題,1
+"ZX07,不能進行CTO Upload",SAP-2X8(QSMC),SD,Sales Process,Delivery issue,SAP-2X8,zx07不能進行cto upload,1
+"user 有一筆SO 98028970, 在系統裏是有資料的但欲列印報表卻無item資料, 請協助處理, TEL: 61591",SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,有一筆so  在系統裏是有資料的但欲列印報表卻無item資料,1
+請參考附件。,SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,請參考附件,1
+開不出訂單,SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,開不出訂單,1
+"要從SAP218 列印 Credit Memo, SAP 就當住, 畫面為全螢幕, 然後一直停留列印的畫面",SAP-2X8(QSMC),Basis,印表機,無法列印,SAP-2X8,要從sap218 列印 credit memo sap 就當住 畫面為全螢幕 停留列印的畫面,1
+SAP設定印表機，印表機名稱NB4sales，分機16346,SAP-2X8(QSMC),Basis,印表機,設定,SAP-2X8,sap設定印表機印表機名稱nb4sales,1
+sap 印表機無法使用,SAP-2X8(QSMC),Basis,印表機,無法列印,SAP-2X8,sap 印表機,1
+"USER再使用298時無法列印,請協助其處理",SAP-2X8(QSMC),Basis,印表機,無法列印,SAP-2X8,再使用298時無法列印,1
+"User反應218 Client 印表機無法列印 , 請速協助解決..",SAP-2X8(QSMC),Basis,印表機,無法列印,SAP-2X8,218 client 印表機無法列印  .,1
+"User 想詢問出貨後的GI Documnt 內的refererce no, 如何應用.",SAP-2X8(QSMC),SD,Sales Process,GI issue,SAP-2X8,出貨後的gi documnt 內的refererce no 應用,1
+"User反應操作ZN26在168中顯示的price是正常的,但在298裡卻帶不出資料,煩請協助處理.",SAP-2X8(QSMC),SD,Sales Process,Billing issue,SAP-2X8,操作zn26在168中顯示的price是正常的但在298裡卻帶不出資料,1
+"USER反應PO無法release,料號FAHH2002016",SAP-2X8(QSMC),MM,Purchasing,PO issue,SAP-2X8,po無法release料號fahh16,1
+Vendor code:PAI-X16需要把它轉入218.298  分機:18963,SAP-2X8(QSMC),MM,Purchasing,Master data,SAP-2X8,vendor codepaix16需要把它轉入218.298,1
+"ECM0513 6/29已簽約但至今未生效,煩請相關人員協助處理",SAP-2X8(QSMC),MM,Purchasing,放量問題,SAP-2X8,ecm 6/29已簽約但至今未生效相關人員,1
+SAP 268 PO無法開立,SAP-2X8(QSMC),MM,Purchasing,PO issue,SAP-2X8,sap 268 po無法開立,1
+user要詢問APO Poject的問題,SAP-2X8(QSMC),MM,Purchasing,Addon Function,SAP-2X8,要詢問apo poject的問題,1
+修改Buyer code 及L/T要用何種程式?,SAP-2X8(QSMC),MM,Purchasing,Master data,SAP-2X8,buyer code 及l/t要用何種程式,1
+"無法logon SAP-268,已做更新,更新前可使用,更新完後反而無法使用",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon sap268已做更新更新前可使用更新完後,1
+"無法loing 268,sap開不起來 1289",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法loing 268sap開不起來,1
+已經更改過298路徑<可是依然今天突然無法登入<  請幫忙查明原因,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,已經更改過298路徑依然突然  查明原因,1
+"使用者已將路徑由C:改為V:,但仍是無法下載檔案",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,已將路徑由c改為v但仍是無法下載檔案,1
+sap258 登入帳號被鎖住,SAP-2X8(QSMC),HOME,PAL,問題解決及操作詢問,SAP-2X8,sap258 登入帳號被鎖住,1
+ECN: E200510-0879在268未生效，由于情况焦急，希望能提前使其生效,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,ecn e0在268未生效情況焦急希望能提前使其生效,1
+"達丰user反應ECN:1200508-5792已轉到SAP168,但未同步到SAP298系統,煩請相關人員盡快協助USER處理.",SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,達豐ecn2已轉到sap168但未同步到sap298系統相關人員協助,1
+"達丰user反應做ECN認証出現錯誤,ECN#:1200508-5730,煩請相關同仁協助處理.#42627",SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,達豐做ecn認証ecn0相關,1
+E200510-2632 transfer to 298,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,e0 transfer to 298,1
+"分機號碼:42627,ECM問題",SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,號碼ecm問題,1
+希望将ECN：E200510-0669  即刻在298生效,SAP-2X8(QSMC),PP,ECN,ECN 未同步QSMC,SAP-2X8,希望將ecne0  在298生效,1
+"USER反應說在使用VA02時,price的欄位帶不出來,分機13216",SAP-2X8(QSMC),SD,Master Data,Price mapping issue,SAP-2X8,在使用va02時price的欄位帶不出來,1
+218的印表機設定有問題，無法列印。,SAP-2X8(QSMC),Basis,印表機,無法列印,SAP-2X8,218的印表機設定有問題無法列印,1
+印表機無法列印218文件 但是168文件可以列印 請協助處理解決,SAP-2X8(QSMC),Basis,印表機,無法列印,SAP-2X8,印表機無法列印218文件 168文件可以列印,1
+SAP218無法列印,SAP-2X8(QSMC),Basis,印表機,無法列印,SAP-2X8,sap218無法列印,1
+"使用者反應登入SAP238時顯示無法登入的訊息,請協助處理",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,登入sap238時顯示的訊息,1
+USER反應無法登錄系統,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,無法登錄系統,1
+"無法登入,有錯誤訊息  TEL:15739",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,有錯誤訊息,1
+"USER的帳號無法登入, CLIENT:238,288,278, 分機:382-13847",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,的帳號 client278,1
+"AP32, AP33 無法連線   382-45438",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,ap32 ap33 無法連線,1
+SAP第一層帳號無法進入 ext.13230,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap第一層帳號,1
+第一次使用  操作上有問題  請協助.,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,第一次使用  操作上有問題,1
+"User反應SAP208 第一層帳號遭Lock,煩請盡速協助處理.",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap208 第一層帳號遭lock,1
+cannot access 268 SAP system.  error code 88,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,cannot access 268 sap system.  error code 88,1
+改了密碼以後不能使用Client 218  SAP帳號:78092001,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,改了密碼以後不能使用client 218  sap帳號,1
+"User反應SAP268 GroupID被LOCK住,煩請協助處理.",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap268 groupid被lock住,1
+17327 SAP第二層 無法Logon,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap第二層 無法logon,1
+關於BOM資料正確性的問題,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,bom資料正確性的問題,1
+達丰user說 R10的BOM還沒轉過去 請協助處理,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,達豐 r10的bom還沒轉過去,1
+"SAP218(BOM),匯出excel,會出現存取錯誤",SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,sap218bom匯出excel會出現存取錯誤,1
+218可以登入，但無法使用。  #16111,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,218可以登入但,1
+SAP不通 存取權限發生錯誤 #11426,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap不通 存取權限發生錯誤,1
+CSAP22 無法使用 #16570,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,csap22,1
+user無法連進SAP,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,無法連進sap,1
+SAP TYC-298係統無法使用。,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap tyc298係統,1
+user反應TYC-298係統,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,tyc298係統,1
+238 SD issue,SAP-2X8(QSMC),SD,Sales Process,Delivery issue,SAP-2X8,238 sd,1
+"達丰User反應SO號碼沒有轉入208,今早急著出貨~煩請協助處理",SAP-2X8(QSMC),SD,Sales Process,SO issue,SAP-2X8,達豐so號碼沒有轉入208,1
+使用者在使用ZMAW時發現有一張Delivery No:550473284沒有從218轉到168，請幫忙處理，謝謝!!,SAP-2X8(QSMC),SD,Sales Process,Delivery issue,SAP-2X8,在使用zmaw時發現有一張delivery no沒有從218轉到168,1
+"達丰user反應從上星期五到今日共有20多筆的假收假入的資料需要轉到SAP168,煩請Irwin協助處理",SAP-2X8(QSMC),SD,Master Data,其它,SAP-2X8,達豐從五到今日共有20多筆的假收假入的資料需要轉到sap168irwin,1
+無法正常登入SAP 218,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法正常登入sap 218,1
+無法進入cs726。#11413,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,cs726,1
+登入82這台時候，一直等待遠端回應，無法正常開啟SAP。3285620094,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,登入82這台等待遠端回應無法正常開啟sap,1
+無法logon268 請協助處理,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon268,1
+無法logon 268,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon 268,1
+"達丰User反應無法使用SAP,show出無法顯示網頁,煩請協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,達豐sapshow出無法顯示網頁,1
+無法登入SAP31,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap31,1
+sap第一個畫面，可以勾選用滑鼠copy的文字，想請問這功能怎麼使用,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap第一個畫面可以勾選用滑鼠copy的文字想請問這功能,1
+sap 208 無法logon 請協助處理,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 208 無法logon,1
+user在run ZMD5時發生錯誤,SAP-2X8(QSMC),SD,Addon Function,詢問Function,SAP-2X8,在run zmd5時發生錯誤,1
+使用者反應3EVFMB1580無法生成資料，請協助處裡，謝謝,SAP-2X8(QSMC),SD,Addon Function,問題解決及操作,SAP-2X8,3evfmb無法生成資料處裡,1
+SAP-ZV17 can''t print   #13579,SAP-2X8(QSMC),SD,Addon Function,問題解決及操作,SAP-2X8,sapzv17 can''t print,1
+"218 ZN93 shows ""please import PROD Hierachy (SO Type)""",SAP-2X8(QSMC),SD,Addon Function,問題解決及操作,SAP-2X8,218 zn93 shows please import prod erachy so type,1
+"在VA01新增SO時,出現错誤",SAP-2X8(QSMC),SD,Addon Function,問題解決及操作,SAP-2X8,在va01新增so時,1
+SAP 268 無法登入,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 268,1
+2x8第一層近不去 請協助處理,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,2x8第一層近不去,1
+執行sap時發出異音,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,執行sap時發出異音,1
+Sap logon :QSMCTCLIENT15,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap logon tclient15,1
+User can not log into her account by using SAP 268 Thin Client Account  Please help to handle it,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,can not log into her account by using sap 268 tn client account  please help to handle it,1
+使用者進sap後由QCI-PUR4部門帳號登錄後無法使用自己的帳號登錄使用QSMC General功能，請協助處理,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,進sap後由qcipur4部門帳號登錄後的帳號登錄使用 general功能,1
+can''t login SAP old 218 client,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,can''t login sap old 218 client,1
+無法create New Project 請協助處理  EXT:12708,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,無法create new project,1
+打工號密碼之後~會自動關閉視窗~無法登入。#17380  (SAP 218),SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,打密碼之後會自動關閉視窗  sap 218,1
+SAP ID issue!,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap id,1
+SAP268進不去,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap268進不去,1
+"USER需要開268/208的帳號使用權限,煩請相關同仁協助處理",SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,需要開268/208的帳號使用權限相關,1
+申請以下T-Code權限：   ME1M、ZMD5、ZMAO、ZNST,SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,申請以下tcode權限   me1mzmd5zmaoznst,1
+據說有申請過權限  但是帳號密碼輸入後無法登入,SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,有申請過權限  帳號密碼輸入後,1
+"218轉168要做SALES RETURN,,需要268的第二層權限, 分機:13168",SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,218轉168要做sales return需要268的第二層權限,1
+之前密碼都可以使用218但是今天突然不行 請協助處理,SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,之前密碼都可以使用218突然不行,1
+"93050302 became unable to use T-code ZMD5 to download NB3 Ken Projects Cost BOM at SAP 218  (by CSAP 32)  and SAP shows  ""you are not authorized to access to XX project"" at below",SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,became unable to use tcode zmd5 to download nb3 ken projects cost bom at sap 218  by csap 32  and sap shows  you are not authorized to access to xx project at below,1
+之前25那台修復後，在使用SAP介面時候，切換頁面都會發出逼逼聲(SAP音效)，之前都不會。#13225,SAP-2X8(QSMC),Basis,其他,安裝SAP,SAP-2X8,之前25那台後在使用sap介面切換頁面都會發出逼逼聲sap音效之前都,1
+"WBU 使用者反映,無法登入SAP,登入群組為wbu sales01及wbu sales02",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,wbu 反映sap登入群組為wbu sales01及wbu sales02,1
+"孔先生 SAP208不能登入, 密碼INIT fail  13457",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap208不能登入 密碼init fail,1
+無法連上268 client,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法連上268 client,1
+"User反應其主管先前都可正常使用SAP268,今日要使用系統時,發生無法登入的情形,煩請協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,其先前都可正常使用sap268今日要使用系統時發生的情形,1
+"298 TFC 無法使用,還有他老闆的也是",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,298 tfc 他老闆的也是,1
+"USER反應無法連結告SAP268的SERVER,煩請相關同仁協助處理",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法連結告sap268的server相關,1
+沒有權限進入ZMPV  #18303,SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,沒有權限進入zmpv,1
+"工號: 95042409, 95041711  申請權限 : FP 298 , F2 268  分機: 18313",SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,申請權限  fp 298  f2 268,1
+"13176  黃先生  SAP account  QSMC rd10 , account 90031212 無使用權限，使用者要查 208,218庫存  需要帳號可以登入",SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,sap account   rd10  account  無使用權限要查 庫存  需要帳號可以登入,1
+欲申請SAP登入權限，但從資訊需求申請單不知Group ID改填什麼,SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,欲申請sap登入權限但從資訊需求申請單不知group id改填,1
+ZMD5無法下載BOM表。分機13465,SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,zmd5無法下載bom表,1
+USER使用87101201，87120102帳號登入SAP，部分功能使用權限不足，煩請幫忙處理，謝謝。 ＃16752,SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,使用帳號登入sap部分功能使用權限不足,1
+無法logon SAP,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon sap,1
+資料無法DOWNLOAD,SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,資料無法download,1
+User無法登入268 system，請協助處理，謝謝！分機#17339,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,268 system,1
+"人在達丰的user反應SAP218無法連線,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,人在達豐的sap218無法連線相關,1
+"user反應SAP218無法連線,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap218無法連線相關,1
+can''t log in SAP on Citrix,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,can''t log in sap on citrix,1
+Logon IP:QCITCLIENT21 /EXT15739,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,logon ipqcitclient21 /,1
+操作SAP時會發出聲音，是否可關掉 #15739,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,操作sap時會發出聲音是否可關掉,1
+SAP 268 logon fail,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 268 logon fail,1
+軟體有異常想要移除重新安裝請求協助,SAP-2X8(QSMC),Basis,其他,安裝SAP,SAP-2X8,軟體有異常移除重新安裝請求協助,1
+無法輸入庫存,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法輸入庫存,1
+SAP 298 LOGON,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 298 logon,1
+"SAP 268操作到一半會跳出一堆視窗,並顯示Error",SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,sap 268操作到一半會跳出一堆視窗並,1
+SAP 298無法登入，請幫忙檢查，謝謝!!,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 298檢查,1
+user can''t logon SAP    #11653,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,can''t logon sap,1
+"建立SAP298,288連線設定",SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,建立sap連線設定,1
+SAP 208 第一層帳號被鎖住 無法使用.,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 208 第一層帳號被鎖住,1
+需申請帳號查詢資料 #382-645195,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,需申請帳號資料,1
+"USER的帳號無法登入,為268的系統",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,的帳號為268的系統,1
+SAP218  帳號沒有權限    #2-18853,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap218  帳號沒有權限,1
+"user反應在218系統裡,帳號90091205是被locked...煩請協助重新開通,謝謝! #11429",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,在218系統裡帳號是被locked...協助重新開通,1
+218今天進不去,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,218進不去,1
+"cs20,cs12,cs40,cs50",SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,cs20cs12cs40cs50,1
+SAP 第二層Login無法登入 分機:13452,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 第二層login,1
+SAP 268無法LOGIN   分機15090,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 268無法login,1
+user無法logon SAP,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,無法logon sap,1
+"User反應在268上使用CS03 做display BOM 時只要key入廠區就無法query到任何資料,在ZPA2上也是一樣的狀況,煩請協助處理./",SAP-2X8(QSMC),PP,其它,問題詢問及操作,SAP-2X8,在268上使用cs03 做display bom 時key入廠區就無法query到資料在zpa2上也是的狀況./,1
+"以下料号的描述中出现异常：  1HYYZZZ0870, 1HYYZZZ0888,1HYYZZZ0896,1HYYZZZ08C7,1HYYZZZ08D5,1HYYZZZ08E3",SAP-2X8(QSMC),PP,其它,問題詢問及操作,SAP-2X8,以下料號的描述中出現異常  1hyyzzz 1hyyzzz1hyyzzz1hyyzzz08c71hyyzzz08d51hyyzzz08e3,1
+"user須要調出前四週MRP的資料,煩請相關同仁協助處理 #13063",SAP-2X8(QSMC),PP,其它,SCITS,SAP-2X8,須要調出前四週mrp的資料相關,1
+"USER反應操作SAP 298  ZP16 一直產生ERROR,煩請Charles協助處理.",SAP-2X8(QSMC),PP,其它,問題詢問及操作,SAP-2X8,操作sap 298  zp16 產生errorcharles,1
+user建料狀態有點問題 他說有發mail給你了請協助處理 分機25618,SAP-2X8(QSMC),PP,其它,問題詢問及操作,SAP-2X8,建料狀態問題,1
+"第二層登入帳號密碼忘記了，可否將密碼重新初始化?  (RD10, 93022310)",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,第二層登入帳號密碼忘記了可否將密碼重新初始化  rd10,1
+SAP帳號被鎖住了，麻煩幫忙處理，謝謝。,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap帳號被鎖住了,1
+"can''t login SAP,   and what password to enter?  please contact him at QSMC ext:45195",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,can''t login sap   and what password to enter  please contact m at,1
+"SAP帳號無法登入,請協助(382-71318 Linda )",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap帳號 linda,1
+SAP 208連不上,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 208連不上,1
+"使用者反應登入SAP系統時會出現錯誤訊息,請協助處理.",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,登入sap系統時會訊息,1
+SAP 帳號: 92022406  TEL:16631,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 帳號,1
+從昨天下午過後無法正常進入SAP,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,從下午過後無法正常進入sap,1
+"SAP 34無法登入   ext:15792,15793",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 34,1
+"1.使用rd10/genius登入sap系統之後,要求輸入工號跟密碼,請問密碼的預設值是多少?  2.NB3是否只能查詢sap 208的庫存,無法查其他廠區的(sap268, 218 etc..)  3.星期天要去QSMC出差,所以希望問題可以明天解決,謝謝",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,1.使用rd10/genius登入sap系統之後要求輸入跟密碼請問密碼的預設值是  2.nb3是否只能sap 208的庫存無法查廠區的sap268 218 etc..  3.星期天要去希望問題可以,1
+進入SAP208 輸入帳號rd10 密碼genius 無法登入 系統顯示user is locked.,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,進入sap208 輸入帳號rd10 密碼genius  系統顯示 is locked,1
+user可連268 但不能連208 請協助處理,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,可連268 但不能連208,1
+"user 欲登入268一直無法登入,請協助處理",SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,欲登入268,1
+欲詢問268問題,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,欲詢問268問題,1
+user(#11653)反應該部門的人皆無法logon 268 SAP.請儘速處理。謝謝！,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,反應該部門的人皆無法logon 268 sap,1
+268顯示user lock 無法登入,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,268顯示 lock,1
+SAP Client 218 T-code NB51 執行過久無法正常作業,SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,sap client 218 tcode nb51 執行過久無法正常作業,1
+user(#19926)反應登入SAP第二層帳號有問題,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,反應登入sap第二層帳號有問題,1
+所有的QSMC CLIENT 無法使用,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,所 client,1
+"user反應SAP218無法使用,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap218相關,1
+after  QCI-PUR6 --passwe 12345  .      input  89080132 .passwd . can''t pass login .,SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,after  qcipur6 passwe   .      input   .passwd . can''t pass login,1
+"日前登入皆可使用,今天登入系統查庫存,系統顯示無權限",SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,日前登入使用登入系統查庫存系統顯示無權限,1
+申請SAP 218 權限,SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,申請sap 218 權限,1
+268 query function not work,SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,268 query function not work,1
+user申請開放268權限,SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,申請開放268權限,1
+使用者?有使用t-code的權限..煩請處理(1405),SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,有使用tcode的權限.,1
+"該user反應,他想使用218 裡ZVPF QCI~Customer的選項,但是沒有權限",SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,該他想使用218 裡zvpf qcicustomer的選項沒有權限,1
+無法儲存檔案 #12595,SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,無法儲存檔案,1
+"User反應早上十點左右操作SAP 298時發生不明原因強制跳出系統,之後再進入SAP系統後部份權限就無法使用,User使用的T-code:MMB1,MD04,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,Authorization,權限不足,SAP-2X8,早上十點左右操作sap 298時發生不明原因強制跳出系統之後再進入sap系統後部份權限就使用的tcodemmb1md04相關,1
+SAP 218 ZP33權限被移除,SAP-2X8(QSMC),Basis,Authorization,申請權限,SAP-2X8,sap 218 zp33權限被移除,1
+User 詢問 ZP87修改進度,SAP-2X8(QSMC),PP,其它,問題詢問及操作,SAP-2X8,詢問 zp87進度,1
+"使用AVL功能,輸入廣達料號無法帶出",SAP-2X8(QSMC),PP,其它,問題詢問及操作,SAP-2X8,使用avl功能輸入廣達料號無法帶出,1
+無法進入SAP 請打分機382+13845   VNC:172.20.152.104     PW:1031,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap    vnc172.20.152.104     pw,1
+登入時需要每次KEY帳號密碼,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,登入時需要每次key帳號密碼,1
+"無法登入，出現""無法找到輸入點""",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,出現無法找到輸入點,1
+298 download BOM error,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,298 download bom error,1
+SAP功能有問題,SAP-2X8(QSMC),PP,BOM,Cost BOM,SAP-2X8,sap功能有問題,1
+登不進去SAP，ext.382+70567,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,登不進去sap,1
+ext . 15191  無法Login入SAP系統,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,無法login入sap系統,1
+建BOM需要查庫存,SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,建bom需要查庫存,1
+"cs20,cs12,cs40,cs50",SAP-2X8(QSMC),Basis,帳號,新申請,SAP-2X8,cs20cs12cs40cs50,1
+SAP帳號被LOCK  帳號:QCI-PUR4,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap帳號被lock  帳號qcipur4,1
+SAP 268 Account 無法登入,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 268 account,1
+sap32無法使用  #13003,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap32,1
+"USER欲詢問R16工作刪除的進度,煩請Charles協助處理",SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,欲詢問r16工作刪除的進度charles,1
+BOM Create job fail,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,bom create job fail,1
+按下Download後會有錯誤訊息出現,SAP-2X8(QSMC),PP,BOM,Cost BOM,SAP-2X8,按下download後會有錯誤訊息出現,1
+"達丰USER需要詢問關於料號,BOM的問題,煩請Richard協助處理.",SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,達豐需要詢問料號bom的問題richard,1
+1.  我想請問一下有沒有辦法查31BQ2MB0071的SAP BOM   因為物料在刷缺料表的時候  發現有幾個料明明是缺料的狀態但是在缺料表中並未出現   所以想確認一下PLM BOM和SAP BOM是否有差異  我們RD有權限可以查SAP BOM嗎    2. 是否有SAP完整的操作手冊可供下載   這樣可以事先查許多料況   也不用等待生產線的時間允許,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,1.  我想有沒有辦法查31bq2mb的sap bom   物料在刷缺料表的  發現有料明明是缺料的狀態在缺料表中並未出現   想一下plm bom和sap bom是否有差異  rd有權限可以查sap bom嗎    2. 是否有sap完整的操作手冊可供下載   可以事先查許多料況   也不用等待生產線的時間允許,1
+BOM download error!   #17240,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,bom download error,1
+user 在go BOM的時候當掉 想重跑怕重複會有問題 請協助處理,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,在go bom的當掉 想重跑怕重複會有問題,1
+268 BOM 的問題,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,268 bom 的問題,1
+ECN#: e200510-0879,SAP-2X8(QSMC),PP,BOM,BOM Create Error,SAP-2X8,ecn e0,1
+"user反應SAP218無法使用,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap218相關,1
+無法登錄SAP,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法登錄sap,1
+"User反應無法logon sap298,已協助處理",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon sap298,1
+SAP 298 無法登入,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 298,1
+sap 298無法登入,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 298,1
+無法logon SAP,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon sap,1
+連logon的畫面都出不來,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,連logon的畫面都出不來,1
+SAP 系統 無法登入,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 系統,1
+user 重灌電腦後，無法執行。  #15248,SAP-2X8(QSMC),Basis,其他,安裝SAP,SAP-2X8,重灌電腦後無法執行,1
+SAP 2X8 無法登入二層帳號,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 2x8 二層帳號,1
+無法logon298 但168可以連 請協助處理,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon298 但168可以連,1
+user 無法登入，最近常發生這種狀況。  #11482,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,常發生這種狀況,1
+can not use 268 (QSMC General),SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,can not use 268  general,1
+"user反映說268的資料沒有轉進來,無法作業",SAP-2X8(QSMC),SD,Project,Sub SKD,SAP-2X8,268的資料沒有轉進來無法作業,1
+"user反應SAP218無法連線,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap218無法連線相關,1
+SAP 無法顯示登入畫面,SAP-2X8(QSMC),Basis,其他,安裝SAP,SAP-2X8,sap 無法顯示登入畫面,1
+CSPA 原來23 改33  的問題詢問,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,cspa 原來23 改33  的問題詢問,1
+無法進入SAP，下載.ica，還是無法開啟,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap下載.ica,1
+使用者 無法在SAP 上使用 剪下 貼上功能,SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,無法在sap 上使用 剪下 貼上功能,1
+SAP速度很慢  請連絡17324,SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,sap速度很慢,1
+"USER反應SAP218無法使用,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap218相關,1
+SAP 無法連線,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 無法連線,1
+按照mail的步驟做完後還是無法logon SAP,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,mail的步驟做完後無法logon sap,1
+"系統很慢, 無法使用  ps.倉庫那邊的user也反應系統很慢",SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,系統很慢   ps.倉庫的也反應系統很慢,1
+系統自動後，user就無法登入    #13069,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,系統自動後就,1
+"使用者剛申請過帳號,但似乎沒告知密碼, 因此無法登入",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,剛申請過帳號但似乎沒告知密碼,1
+無法logon SAP 298,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon sap 298,1
+無法logon SAP,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法logon sap,1
+SAP 2X6無法登入,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 2x6,1
+使用者帳號被鎖住無法登入 請協助處理,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,帳號被鎖住,1
+User 無法登入268系統,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,268系統,1
+"user反應無法連到SAP-268(192.168.28.71),並表示他們有一位同仁出差到大陸去也無法連上SAP-268",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法連到sap.168.28.71並表示有一位去也無法連上sap268,1
+CSAP30.33 進不去    #17009,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,csap30.33 進不去,1
+在sap系統，若是輸入工號為8開頭的就正常，但9開頭的就會找不到工號,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,在sap系統輸入為8開頭的就正常但9開頭的就會,1
+Cannot find the SAP form after SAP is upgraded N in 1.,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,cannot find the sap form after sap is upgraded n in,1
+User 需要重跑 ZW19  但 ZW19 被 Lock 住  Please call 11285,SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,需要重跑 zw19  但 zw19 被 lock 住  please call,1
+"268 , T-codeZMD5 ,無法login",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,268  tcodezmd5 無法login,1
+使用者反應SAP系統使用有問題，請協助處理,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap系統使用有問題,1
+user要登入268修改採購資料同步至298 無法登入268 請協助處理,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,要登入268採購資料同步至298 268,1
+SAP 無法連線 #382-71791,SAP-2X8(QSMC),Basis,帳號,帳號無法使用,SAP-2X8,sap 無法連線,1
+sap 298 zm02 error,SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,sap 298 zm02 error,1
+user有APO相關的SAP request,SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,有apo相關的sap request,1
+SAP 298 ZMAO Download資料格式有問題,SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,sap 298 zmao download資料格式有問題,1
+"該user 有R10的問題要問你,我請他聯繫QSMC的mis,但是他說他已經連絡過那邊,但這問題你比較清楚........so...請你回電給他",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,該 有r10的問題要問你我的mis他說他已但這問題你比較清楚........so...請你回電給他,1
+"達丰USER有關ZPNB5 PO Table的問題,煩請Sworm聯絡user協助處理",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,達豐zpnb5 po table的問題sworm,1
+"user表示操作SAP268 R-10有問題,煩請相關人員協助處理",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,表示操作sap268 r10有問題相關人員,1
+"user表示操作SAP268 R-10有問題,煩請相關人員協助處理",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,表示操作sap268 r10有問題相關人員,1
+"達丰採購部使用ZMPW於6/21這一天的廠商PO資料抓不到,料頭:AL,廠商代碼:NSC-NSC,分機:13945",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,達豐採購部使用zmpw於6/21這一天的廠商po資料抓不到料頭al廠商代碼nscnsc,1
+"大陸SAP系統無法對台灣方面的廠商做下單動作,煩請相關人員協助處理",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,sap系統無法對方面的廠商做下單動作相關人員,1
+在order balance report 無法轉成excel檔,SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,在order balance report 無法轉成excel檔,1
+UPDATE INI後無法登入SAP..錯誤碼為88 分機:2611,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,update ini後sap..錯誤碼為88,1
+298 logon fail--重新產生清單,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,298 logon fail重新產生清單,1
+sap 218 登入問題,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 218,1
+使用者 無法login 218,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法login 218,1
+sap TYC 連不上,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap tyc 連不上,1
+user can not logon SAP  #15616,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,can not logon sap,1
+"user SAP298無法以General方式連線,已協助其設定指定QCCAP4連線",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap298無法以general方式連線已協助其設定指定qccap4連線,1
+User反應在268裡要執行程式時被lock住，請幫忙處理，謝謝！分機#15184,SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,在268裡要執行程式時被lock住,1
+"user反應SAP218無法使用,煩請相關同仁協助處理.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap218相關,1
+無法連線289,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法連線289,1
+SAP298無法login,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap298無法login,1
+168可以上 但是268上不去 請協助處理,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,168可以上 268上不去,1
+登入298即發生error,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,登入298即發生error,1
+sap csap26 無法登入  #11421,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap csap26,1
+citrix錯誤，連不上sap,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,citrix錯誤連不上sap,1
+SAP 298 無法連上,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 298 無法連上,1
+SAP開QSMC會有錯誤訊息,SAP-2X8(QSMC),Basis,其他,Performance Issue,SAP-2X8,sap開會有錯誤訊息,1
+sap 268 excel 檔不能匯出,SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,sap 268 excel 檔不能匯出,1
+2筆delivery有問題,SAP-2X8(QSMC),SD,Project,ZMAW Issue,SAP-2X8,2筆delivery有問題,1
+"user無法連線使用218/298系統,已協助將其設定改成連線QCCAP4.",SAP-2X8(QSMC),Basis,其他,無法logon SAP,SAP-2X8,無法連線使用218/298系統已協助將其設定改成連線qccap4,1
+"達丰user反應無法開工單,料號:ebf20002265此料號不存在,BOM解不開,煩請相關同仁協助處理.",SAP-2X8(QSMC),PP,工單,工單收發料問題,SAP-2X8,達豐無法開工單料號ebf此料號不存在bom解不開相關,1
+SPOR10有問題，請盡快回覆  ext.24291,SAP-2X8(QSMC),PP,工單,工單Create&Change,SAP-2X8,spor10有問題請回覆,1
+"達丰TOP的user反應開工單的job有問題,煩請同仁協助處理",SAP-2X8(QSMC),PP,工單,工單Create&Change,SAP-2X8,達豐top的開工單的job有問題,1
+"User在BPM系統中看不到Vendor code的申請進度,請協助處理.  382-25679",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,在bpm系統中看不到vendor code的申請進度.,1
+R5和R11的同步性,SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,r5和r11的同步性,1
+應HP要求修改R2,SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,應hp要求r2,1
+User 詢問ZPTD修改進度,SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,詢問zptd進度,1
+"該user說之前有跟你連繫,你mail了一個11碼的料號給他,但是他希望用正常方式產生到公用資料夾. #42627",SAP-2X8(QSMC),MM,其它,其它,SAP-2X8,該之前有跟你你mail了一個11碼的料號給他他希望用正常方式產生到公用資料夾.,1
+"達丰user需要修改R10 JPNB5 PO的Table,煩請Sworm協助處理.",SAP-2X8(QSMC),MM,Purchasing,PO issue,SAP-2X8,達豐r10 jpnb5 po的tablesworm,1
+cancel po 須等4小時 但急著要放量 請協助處理,SAP-2X8(QSMC),MM,Purchasing,放量問題,SAP-2X8,cancel po 須等4小時 但,1
+sap 218 M157 沒辦法下單 請協助處理,SAP-2X8(QSMC),MM,Purchasing,放量問題,SAP-2X8,sap 218 m157 沒辦法下單,1
+SAP上的料數量與文件的不符合,SAP-2X8(QSMC),MM,Purchasing,放量問題,SAP-2X8,sap上的料數量與文件的不符合,1
+"該user反應庫存資料不正確,想請你跟他連繫,分機:1273",SAP-2X8(QSMC),MM,W/H,Authorization,SAP-2X8,該庫存資料不正確想請你跟他,1
+查常塾料況. 16409.,SAP-2X8(QSMC),MM,W/H,Authorization,SAP-2X8,查常塾料況.,1
+"在查詢ZM03,按確認時出現錯誤訊息,錯誤訊息為亂碼",SAP-2X8(QSMC),MM,W/H,問題解決及操作,SAP-2X8,在zm03訊息錯誤訊息為亂碼,1
+268系統warehouse無法扣帳 請協助處理,SAP-2X8(QSMC),MM,W/H,無法扣帳原因,SAP-2X8,268系統warehouse無法扣帳,1
+61577 208扣到168的扣帳問題,SAP-2X8(QSMC),MM,W/H,扣帳方式,SAP-2X8,208扣到168的扣帳問題,1
+"NB3業務Credit Note Form問題,使用SAP168,但是不知該用哪一個T-code,煩請相關同仁協助處理. #7136",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,nb3業務credit note form問題使用sap168不知該用哪一個tcode相關.,0
+"user無法列印領料單,煩請協助處理",SAP-168(QCI),MM,W/H,問題解決及操作,SAP-168,無法列印領料單,0
+第一次使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,第一次使用,0
+QPM5 Can''t print,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,qpm5 can''t print,0
+安裝SAP需求,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,安裝sap需求,0
+Can''t login . it show User lock .,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,can''t login . it show  lock,0
+"想查詢2003年的客戶資料,要如何查詢?",SAP-168(QCI),SD,Sales Process,Billing issue,SAP-168,想年的客戶資料要,0
+無法login,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法login,0
+需要申請sap使用權限。分機：16341,SAP-168(QCI),Basis,帳號,新申請,SAP-168,需要申請sap使用權限,0
+網路正常，無法使用SAP，顯示無法連線10.243.22.59,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,網路正常sap顯示無法連線10.243.22.59,0
+會計使用168無法登入QCIAP11    TEL:11475,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,會計使用168qciap11,0
+相關操作詢問。,SAP-168(QCI),Basis,帳號,新申請,SAP-168,相關操作詢問,0
+同一台印表機 268可以印 168不行,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,同一臺印表機 268可以印 168不行,0
+SAP無法列印請協助處理.  Ext:12387,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap無法列印.,0
+sap GUI issue,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap gui,0
+無法執行列印功能,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,無法執行列印功能,0
+SAP34無法登入  分機：13657,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap34,0
+sap 168  logon fail,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 168  logon fail,0
+user無登入SAP.,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,無登入sap,0
+忘記登入帳號密碼,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,忘記登入帳號密碼,0
+can''t print out,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,can''t print out,0
+希望不要再次輸入密碼,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,希望再次輸入密碼,0
+無法出現登入畫面,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法出現登入畫面,0
+sap logon problem?,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap logon problem,0
+"User 帳號一直被log out,且SAP 系統速度慢",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號被log out且sap 系統速度慢,0
+sap 31、34從昨天開始都無法登入  分機：11496,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 3134從都,0
+使用者 欲安裝與申請使用SAP系統.,SAP-168(QCI),Basis,帳號,新申請,SAP-168,欲安裝與申請使用sap系統,0
+ctrix 無法使用,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,ctrix,0
+SAP 第二層無法LOGON 分機7578,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 第二層無法logon,0
+logon dail   VNC ip address 10.242.172.168   password :000000,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,logon dail   vnc ip address 10.242.172.168   password,0
+168帳號被鎖住,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,168帳號被鎖住,0
+SAP印出空白文件，需要重新設定,SAP-168(QCI),Basis,印表機,設定,SAP-168,sap印出空白文件需要重新設定,0
+User反應168及268無法登入，請幫忙處理，謝謝！,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,168及268,0
+SAP畫面進去很慢，延遲很嚴重，晚點就會當掉。重新連線後，每個步驟都很慢。,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap畫面進去很慢延遲很嚴重晚點就會當掉重新連線後每個步驟都很慢,0
+放量的網站無法進入  qsbn.ap...,SAP-168(QCI),PP,其它,SCITS,SAP-168,的網站  qsbn.ap..,0
+登入無法執行,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,登入無法執行,0
+user登入SAP後無法動作.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入sap後無法動作,0
+C-SAP35  loading error : SAP GUI Resource..  #12502,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap35  loading error  sap gui resource..,0
+ZCR 可以開SO 但執行其他動作卻出現錯誤訊息 想詢問是否有權限限制 請協助處理,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,zcr 可以開so 但執行動作卻訊息 是否有權限限制,0
+#12387  變更密碼之後，帳號無法進入SAP,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,變更密碼之後帳號sap,0
+已申請帳號但無法登入 #16786,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,已申請帳號但,0
+會計部門申請修改報廢申請書ext 11408,SAP-168(QCI),QM,其它,問題解決及操作,SAP-168,會計部門申報廢申請書,0
+南棟 6F NB4  分機 18687  需安裝SAP  且 不確定是否要新申請依個USER 帳號,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,南棟 6f nb4     需安裝sap  且 不確定是否要新申請依個 帳號,0
+#12450  SAP系統操作緩慢。,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,sap系統操作緩慢,0
+詢問ZVE4 ; ZFOR ; OR type等問題,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,詢問zve4  zfor  or type等問題,0
+Zv29帶出來的有些單價會是零，而且太慢，是否有其他的可以使用,SAP-168(QCI),SD,Project,Quotation,SAP-168,zv29帶出來的單價會是零太慢是否有的可以使用,0
+SAP帳號被鎖  #11411,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號被鎖,0
+"USER有帳號問題,請協助處理,謝謝!",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,有帳號問題,0
+"user反應做Credit memo時出現已做過的訊息,user用Delivery號碼:451911018去查詢,顯示是沒開過Credit memo,煩請相關同仁協助處理.",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,做credit memo時出現已做過的訊息用delivery號碼去顯示是沒開過credit memo相關,0
+#17481  原本在SAP上作業都可以直接編輯，現在都變為下載另存新檔,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,原本在sap上作業都可以直接編輯現在都變為下載另存新檔,0
+"user用二層式Account 時,ZMD5出現無權限訊息...之前一層Account時是可以run.",SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,用二層式account 時zmd5出現無權限訊息...之前一層account時是可以run,0
+"出現密碼錯誤訊息,上禮拜有登入成功過",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,出現密碼錯誤訊息有登入成功過,0
+同仁在上海出差，忘記自己的密碼而無法登入SAP系統,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,忘記的密碼而sap系統,0
+"MM01 shows ""the group data for the material is locked by ESSA03"".",SAP-168(QCI),PP,Master Data,料號問題,SAP-168,mm01 shows the group data for the material is locked by essa03,0
+原本可以使用MR08，今天突然不能使用，請協助會計將權限修改回來。,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,原本可以使用mr08突然不能使用會計將權限回來,0
+"PLM系統的單位用量與SAP系統的單位用量不同,請幫忙調查處理,謝謝!",SAP-168(QCI),PP,其它,問題詢問及操作,SAP-168,plm系統的單位用量與sap系統的單位用量調查,0
+Critix找部道路由...吳法login,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,critix找部道路由...吳法login,0
+User反應用二層式架構後原有權限不見.,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,用二層式架構後原有權限不見,0
+SAP無法下載表格,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap無法下載表格,0
+"下載T-code:ZMB5 , 料號顯示為舊價格",SAP-168(QCI),MM,Purchasing,Master data,SAP-168,下載tcodezmb5  料號顯示為舊價格,0
+SAP連不上,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap連不上,0
+can''t log on SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,can''t log on sap,0
+nb1sales01這個帳號被lock住了,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,nb1sales01帳號被lock住了,0
+"出貨要更新168及208的價格,但現在價格無法更新,請協助處理,謝謝",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,出貨要更新168及208的價格但現在價格無法更新,0
+User can''t log in to SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,can''t log in to sap,0
+168速度很慢,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,168速度很慢,0
+"USER要建立sold to party,需要申請一個customer code,請協助其處理,分機382-13164",SAP-168(QCI),SD,Master Data,Customer Code Create,SAP-168,要建立sold to party需要申請一個customer code,0
+Citrix  無法使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,citrix,0
+ZV1B不能使用,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,zv1b不能使用,0
+登入sap22之後，想要登入218，無法登入。  前幾天都可以登入218，今天不行登入。  EXT:15728,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入sap22之後登入218  前幾天都可以登入218不行登入,0
+user 欲查詢以前QCI的delivery and SO的資料,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,欲以前qci的delivery and so的資料,0
+"user無法登入,qsmcctclient28",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,ctclient28,0
+my quanta中 登錄Icon 遺失,SAP-168(QCI),Basis,帳號,新申請,SAP-168,my quanta中 登錄icon 遺失,0
+run ZMQW fail,SAP-168(QCI),SD,Project,3rd party issue,SAP-168,run zmqw fail,0
+user想申請權限,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,想申請權限,0
+sales查詢產線及產銷的PO,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,sales產線及產銷的po,0
+T-code:ZVTP，上檔案問題。#11615,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,tcodezvtp上檔案問題,0
+要查SIBU的SAP第一層帳號。,SAP-168(QCI),Basis,帳號,新申請,SAP-168,要查sibu的sap第一層帳號,0
+SAP 無法login  EXT:17327,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 無法login,0
+"user之前有申請過權限,內容是複制主管的權限,但目前仍有一些程式無法使用",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,之前有申請過權限內容是複制的權限但目前仍有一些程式,0
+新增印表機如何設定 聯絡電話 15354,SAP-168(QCI),Basis,印表機,設定,SAP-168,新增印表機設定,0
+user表示說SAP帳號進不去,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,表示說sap帳號進不去,0
+需要幫新人申請授權,SAP-168(QCI),Basis,帳號,新申請,SAP-168,需要幫新人申請授權,0
+SAP 資料庫無法查詢,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,sap 資料庫無法,0
+"可以logon,但是perfomance不好.",SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,可以logonperfomance不好,0
+sap logon fail-MSN FIX,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap logon failmsn fix,0
+連不上CAAP34.,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,連不上caap34,0
+ME1M已登入但無法使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,me1m已登入但,0
+使用者在SO(已出delivery)重新更改價格後，系統出現該SO警訊訊息。,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,在so已出delivery重新更改價格後系統出現該so警訊訊息,0
+無法在http://myquanta/Intrasystem/default.aspx 看到SAP ICON.請協助~~~,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法在 看到sap icon,0
+資料無法下載到本機   #15830,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,資料無法下載到本機,0
+"會計部門,無法登入帳號,分機1141,請幫忙,謝謝!!",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,會計部門帳號,0
+"Can''t login SAP. Error message ""Password error!""  #41596",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,can''t login sap. error message password error,0
+create INOVICE iSSUE,SAP-168(QCI),SD,Sales Process,Billing issue,SAP-168,create inovice,0
+"USER 無法LOGON SAP 出現ERROR. (會計部門都進不出)QCIAP4,請儘速解決.",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap . 會計部門都進不出qciap4,0
+user要刪除background作業 SAPF124 請幫忙協助處理,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,要刪除background作業 sapf124,0
+帳號被lock住,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,帳號被lock住,0
+連遠端時需要SAP權限    #18295,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,連遠端時需要sap權限,0
+"user 說無法登入SAP, 出現密碼錯誤 , (確定密碼是對的)分機 #15933",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,說sap 出現密碼錯誤  確定密碼是對的,0
+申請共用帳號,SAP-168(QCI),Basis,帳號,新申請,SAP-168,申請共用帳號,0
+"user使用ZV05要查價,會出現錯誤訊息,請協助其處理,分機5710",SAP-168(QCI),SD,Master Data,Price mapping issue,SAP-168,使用zv05要查價會訊息,0
+"user 93012802,93071208表示之前有使用ZV33 download BOM權限,不知何故目前不行.請協助查詢並加回此權限",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,表示之前有使用zv33 download bom權限不知何故目前不行.並加回此權限,0
+Two issue  1.SI:2006611089 couldn''t be processed Delivery & GI & Billing in 168.  2.SI:2006611043 couldn''t be processed Billing in 168.,SAP-168(QCI),SD,Sales Process,GI issue,SAP-168,two   1.si couldn''t be processed delivery  gi  billing in 168.  2.si couldn''t be processed billing in 168,0
+sap logon fail the secord level,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap logon fail the secord level,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+"分機號碼:6170,sap連線設定有問題",SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,號碼sap連線設定有問題,0
+#16623   無法登入SAP系統  使用va01  csap35    昨天可以登入，今天無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap系統  使用va01  csap35    可以登入,0
+請立即將24.25的資料upload，謝謝！分機#7324,SAP-168(QCI),HOME,WIN,問題解決及操作詢問,SAP-168,請立24.25的資料upload,0
+南棟1樓採購部SAP印表機無法列印以及SAP系統速度慢,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,南棟1樓採購部sap印表機無法列印sap系統速度慢,0
+background job  no cost have no sucessful ...pls check!,SAP-168(QCI),PP,其它,問題詢問及操作,SAP-168,background job  no cost have no sucessful ...pls check,0
+"無SAP畫面, 無法連線, 無法download 存檔資料",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無sap畫面 無法連線 無法download 存檔資料,0
+user 進入畫面就當.,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,進入畫面就當,0
+無法登入SAP35    TEL: 13346,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap35,0
+CSAP31無法登入,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap31,0
+"使用者登入時,會出現應用程式Hanging的狀況.請協助處理",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入時會出現應用程式hanging的狀況,0
+"91110149,91092601 這兩個user 希望看1QN開頭的一字階料號.想要申請新帳號",SAP-168(QCI),Basis,帳號,新申請,SAP-168,這兩個 希望看1qn開頭的一字階料號.申請新帳號,0
+"USER反應帳號被LOCK住,煩請相關同仁協助處理.",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號被lock住相關,0
+價錢問題  導致PO 無法開立,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,價錢問題  導致po 無法開立,0
+無法進入sap system in 168,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap system in 168,0
+"USER因部門更換,換了一個新的SAP的ID,但新的ID所能處理的功能太陽春,不敷使用,煩請相關同仁協助處理 (林口廠#2631)",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,因部門更換換了一個新的sap的id但新的id所能的功能太陽春不敷使用相關 廠,0
+"PLM 的料號已 release, 但一直沒同步到 SAP",SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,plm 的料號已 release 但沒同步到 sap,0
+SAP無去登入,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap無去登入,0
+sap-21帳號無法登入  csap34也無法登入  分機：15594,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap21帳號  csap34也,0
+SAP Citrix 無法登入  EXT:17123,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap citrix,0
+"3248 , 168 sap can not log in",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,168 sap can not log in,0
+CSAP33無法登入 #17043,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap33,0
+user反映說帳號被locked,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號被locked,0
+北棟五樓晶片系統實驗室網路全部不通，分機１２０３０,SAP-168(QCI),Basis,帳號,新申請,SAP-168,北棟五樓晶片系統實驗室網路全部不通,0
+是否可  修改 Delivery 日期   #13612,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,是否可   delivery 日期,0
+"User(#17527)反應列印領料單時,列印結果格式出現異常(昨天還可正常使用),煩請協助調整設定~",SAP-168(QCI),Basis,印表機,設定,SAP-168,反應列印領料單時列印格式出現異常還可正常使用協助調整設定,0
+密碼改了進不去 分機:11279,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,密碼改了進不去,0
+"重新安裝後無法logon SAP,請協助處理,user在林口場,分機:2520",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,重新安裝後無法logon sap場,0
+sap logon fail,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap logon fail,0
+無法從MyQuanta login SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法從myquanta login sap,0
+QCA 3 無法列印SAP資料,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,qca無法列印sap資料,0
+User今天搬進QRDC，印表機PSA1 IP已改變，IP-->NB1-Sales5M，請幫忙處理，謝謝！,SAP-168(QCI),Basis,印表機,設定,SAP-168,搬進qrdc印表機psa1 ip已改變ipnb1sales5m,0
+採購權限不足 ext. 43156 (In QSMC),SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,採購權限不足   in,0
+使用者匯率換算有問題，麻煩處理，謝謝！,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,匯率換算有問題,0
+SAP 帳號無法使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 帳號,0
+user在creat delivery時不知道要怎摩選擇type,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,在creat delivery時不知道要怎摩選擇type,0
+SAO 168 無法進入,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sao 168,0
+"首頁點選項無反應, 麻煩協助處理,謝謝!!  #13761",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,首頁點選項無反應,0
+user想要將放量release..,SAP-168(QCI),QM,其它,手動放量,SAP-168,將release.,0
+在公司外使用VPN登入 無法連線,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,在公司外使用vpn登入 無法連線,0
+T-Code : ZMMIH 無法列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,tcode  zmmih 無法列印,0
+電腦重新安裝執行，即使按照步驟儲存檔案，也無法打開，請協助幫忙,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,電腦重新安裝執行步驟儲存檔案也無法打開幫忙,0
+"user反應需要刪除job,T-code : ZV21,ZMBR,ZB99....等,煩請相關同仁連絡user協助處理 #1415",SAP-168(QCI),Basis,其它,刪除Job,SAP-168,需要刪除jobtcode  zv21zmbrzb99....等相關,0
+Thin Client CSAP33無法登入  ext:15043,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,tn client csap33,0
+292無法退料--採購無建價,SAP-168(QCI),MM,其它,領退料問題,SAP-168,292無法退料採購無建價,0
+"user反應無法登錄(86122201,94112126亦同),分機11442",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法登錄亦同,0
+background job 被 cancel  ----報表,SAP-168(QCI),Basis,其它,刪除Job,SAP-168,background job 被 cancel  報表,0
+因工作需求必須將sap印表機設定為AS-4050,SAP-168(QCI),Basis,印表機,設定,SAP-168,因工作需求將sap印表機設定為as,0
+問題：申請權限進入ZMD4、ZMD5、ZMI1H  工號：100043H8  分機：17952,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,申請權限進入zmd4zmd5zmi1h  3h8,0
+SAP程式改過導致無法列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap程式改過導致無法列印,0
+無法登入sap系統 (user反應其他人也有一樣的問題) #13591,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap系統 人也有的問題,0
+無法將SAP上資料或檔案，另存到本機的其他folder。,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法將sap上資料或檔案另存到本機的folder,0
+資料無法下載成Excel file,SAP-168(QCI),PP,其它,問題詢問及操作,SAP-168,資料無法下載成excel file,0
+操作流程詢問,SAP-168(QCI),SD,其它,教育訓練,SAP-168,操作流程詢問,0
+"user反應說在使用時出現錯誤訊息說code center有問題,分機382-13167",SAP-168(QCI),SD,Project,Quotation,SAP-168,在使用時訊息說code center有問題,0
+user無sap權限,SAP-168(QCI),Basis,帳號,新申請,SAP-168,無sap權限,0
+ssle order 100204401在 create delivery時顯示未完成,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,ssle order 在 create delivery時顯示未完成,0
+SAP 26、40無法登入。,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 2640,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+無法logon SAP  分機:18995,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+無法登入SAP168,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap168,0
+logon畫面都沒出來,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,logon畫面都沒出來,0
+無法登入SAP  (急單),SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap  急單,0
+HOME KEN CallOff 沒吃進去,SAP-168(QCI),HOME,KEN,問題解決及操作詢問,SAP-168,home ken calloff 沒吃進去,0
+user 申請帳號失敗,SAP-168(QCI),Basis,帳號,新申請,SAP-168,申請帳號失敗,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+要開ZP70權限，#15646,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,要開zp70權限,0
+分機15927  帳號被lock住，無法進入SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號被lock住sap,0
+使用者 第二層帳號無法使用.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,第二層帳號,0
+在myquanta下看不到sap icon,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,在myquanta下看不到sap icon,0
+"電腦重灌之後,　ＳＡＰ已經安裝,　然而還是無法連上ＳＡＰ  使用者工號: 96051413 聯絡電話: 16185",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,電腦重灌之後 sap已經安裝 無法連上sap,0
+"無法登入SAP,  顯示正在啓動, 但一直沒有登入畫面",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap  顯示啓動 但沒有登入畫面,0
+"user反應 ZV17 列印有問題,請協助處理. #18916",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,zv17 列印有問題.,0
+權限不足    client 168  --->  Group ID  WBUSALES02  --- 增加T-code: CS03 / CS11,SAP-168(QCI),Basis,帳號,新申請,SAP-168,權限不足    client 168    group id  wbusales02   增加tcode cs03 / cs11,0
+ZN26相關問題 煩請聯絡分機2631,SAP-168(QCI),SD,Master Data,Price mapping issue,SAP-168,zn26相關問題,0
+"project ID ""YV3""  在 ZMI1 頁面中無法輸入資料",SAP-168(QCI),PP,Master Data,料號問題,SAP-168,project id yv3  在 zmi1 頁面中無法輸入資料,0
+不知如何，  解ME22中Lock PO資料,SAP-168(QCI),MM,其它,其它,SAP-168,不知  解me22中lock po資料,0
+詢問SAP相關事宜，希望能查詢之前sap的異動記綠。#11272,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,詢問sap相關事宜希望能之前sap的異動記綠,0
+無法連CSP26,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法連csp26,0
+#11481  部門內部有幾位新進人員已有帳號密碼，但沒有SAP路徑的權限,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,部門內部有幾位新進人員已有帳號密碼但沒有sap路徑的權限,0
+SAP 168 account進不去,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 168 account進不去,0
+使用者詢問是否有替代料的T-Code可查詢,SAP-168(QCI),MM,其它,其它,SAP-168,詢問是否有替代料的tcode可,0
+The user wonders whetever to apply group id or user id in SAP.,SAP-168(QCI),Basis,帳號,新申請,SAP-168,the  wonders whetever to apply group id or  id in sap,0
+"user反映說SAP無法登入,會出現錯誤訊息",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap會訊息,0
+"sap系統登入後, 一直無法出現自動更新後的畫面,",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap系統登入後 無法出現自動更新後的畫面,0
+"SAP-ZWPD需將訂單轉出成pdf檔,麻煩協助,謝謝!!  #13529",SAP-168(QCI),Basis,印表機,設定,SAP-168,sapzwpd需將訂單轉出成pdf檔協助,0
+使用者無法登入SAP系統，登入時會一直卡在正在建立連線的畫面。,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap系統登入時會卡在建立連線的畫面,0
+User反應SAP168 ME57 出現error message 煩請協助處理.,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,sap168 me57  message,0
+SAP系統無法使用。,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap系統,0
+帳號NB6MC01中的VMGA VPLD MV151等權限遺失,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,帳號nb6mc01中的vmga vpld mv151等權限遺失,0
+新進人員-第二曾無法進入---協助建立,SAP-168(QCI),Basis,帳號,新申請,SAP-168,新進人員第二曾協助建立,0
+使用者反應SAP登入有問題請協助處理,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap登入有問題,0
+CSAP32。#12369,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap32,0
+你好，使用SAP ZV14 下載資料，會發生部分SO撈不到的情形，請幫忙查一下原因。Thanks!    1. 進入SAP 使用T-code ZV14 下載 Order Balance Report  　Plant: CQ2A  　Sales Org: S7Q1  　勾選 V Including Balance =0! (只查未出貨的話就不選)  　勾選 V Sort by Material  　勾選 V Created by EDI  　勾選 V SO TYPE    2. 得出 Order Balance Report，但發現其中有些SO不在其中，例如：  So.NO.  Item  118502072  30  117840854  40  117840854  30  117840854  20  118785744  380  117839881  10  117840712  10  117840718  20  118558128  100  118487808  30  117976899  40  118496875  70  118496875  180  118496875  40  118496875  20    如果需要明細檔案的話請與我聯絡。Thanks!,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,使用sap zv14 下載資料會發生部分so撈不到的情形查一下原因    1. 進入sap 使用tcode zv14 下載 order balance report   plant cq2a   sales org s7q1   勾選 v including balance只查未出貨就不選   勾選 v sort by material   勾選 v created by edi   勾選 v so type    2. 得出 order balance report但發現so不在  so.no.  item    30    40    30    20        10    10    20    100    30    40    70    180    40    20    需要明細檔案,0
+sap無法logon 請協助處理,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap無法logon,0
+"user收到某物流寄來的畫面,上面有幾個呆料,user需要查出sales order number,但不知該如何處理,煩請Cicely協助處理.",SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,收到某物流寄來的畫面上面有獃料需要查出sales order number但不知該cicely,0
+sap logon fail,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap logon fail,0
+"安裝Critix後,在Myquanta中還是看不到SAP Icon",SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝critix後在myquanta中看不到sap icon,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+廣達首頁無法登入SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,廣達首頁sap,0
+使用遠端桌面登入時，系統提示沒有權限,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,使用遠端桌面登入時系統提示沒有權限,0
+申請帳號查價格,SAP-168(QCI),SD,Master Data,Price mapping issue,SAP-168,申請帳號查價格,0
+"USER無法建立PAYER2,煩請相關人員協助處理",SAP-168(QCI),SD,Master Data,其它,SAP-168,無法建立payer2相關人員,0
+"新進人員需安裝Sap軟體,操作問題",SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,新進人員需安裝sap軟體,0
+"生產大樓, b1 ,  TMQ1 無法列印   ,  分機#3104",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,生產大樓 b1   tmq1 無法列印,0
+開SO錯誤訊息 cost center8100-bs402 locked for primary posting at this time.  Client:168,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,開so錯誤訊息 cost centerbs402 locked for primary posting at ts time.  client168,0
+"user目前在VA01裡做出貨的動作,要進行簽核,但因為負責簽核的人請假,所以要請我們幫忙,單號:200660088",SAP-168(QCI),SD,Sales Process,shipment issue,SAP-168,目前在va01裡做出貨的動作要進行簽核但負責簽核的人請假要請幫忙單號,0
+ZMFW issue  Please help to handle it.,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,zmfw   please help to handle it,0
+因為密碼輸入錯誤造成密碼鎖住,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,密碼輸入錯誤造成密碼鎖住,0
+無法登入SAP33,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,sap33,0
+"user 說無法登入SAP, 出現密碼錯誤  分機 #15922",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,說sap 出現密碼錯誤,0
+"USER想要了解在ZMD5下的BOM COST 裡的Current month net price這個欄位的資料是從哪裡來的,煩請相關同仁協助處理.",SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,瞭解在zmd5下的bom cost 裡的current month net price欄位的資料是從來的相關,0
+SAP登入密碼忘記  ext12541,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap登入密碼忘記,0
+想由SAP系統中查出誰亂印資料,SAP-168(QCI),Basis,印表機,刪除資料,SAP-168,想由sap系統中查出誰亂印資料,0
+"無法使用CSAP3x, 請協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap3x,0
+error message :無法連上Server(新進人員分機請打15950),SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,error message 無法連上server新進人員,0
+領料單無法輸入(sap system batch number error)請將3DS29CB0060的batch number 1B建立TH10廠區,SAP-168(QCI),MM,W/H,問題解決及操作,SAP-168,領料單無法輸入sap system batch number error請將3ds29cb的batch number 1b建立th10廠區,0
+user can not access disk V:,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can not access disk v,0
+無法登入SAP系統  #17651,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap系統,0
+"之前已透過資訊需求申請單申請General Authorization,申請User ID(第二層帳號),單號:app0004475已處理,但user沒有收到帳號及密碼",SAP-168(QCI),Basis,帳號,新申請,SAP-168,之前已透過資訊需求申請單申請general authorization申請 id第二層帳號單號app75但沒有收到帳號及密碼,0
+"User表示初次使用SAP印表機,在設定上似乎有誤,無法列印,煩請協助處理.",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,表示初次使用sap印表機在設定上似乎有誤無法列印,0
+SAP帳號鎖住,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號鎖住,0
+CSAP26 無法login  分機11457,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap26 無法login,0
+User 反應Sold to party被block，請MIS人員協助處理。分機3229,SAP-168(QCI),SD,Master Data,其它,SAP-168,sold to party被block請mis人員,0
+"ZV29無法download資料,權限不足",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,zv29無法download資料權限不足,0
+"user第一次使用SAP, 詢問操作問題",SAP-168(QCI),QM,其它,問題解決及操作,SAP-168,第一次使用sap 詢問,0
+使用者無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+question about PO Price,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,question about po price,0
+User can''t log in to SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can''t log in to sap,0
+無法列印資料,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法列印資料,0
+session locked,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,session locked,0
+SAP 168無法登入,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 168,0
+使用者SAP帳號有問題.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號有問題,0
+user一張假收假出的單子run不出來 請協助處理,SAP-168(QCI),SD,Project,Quotation,SAP-168,一張假收假出的單子run不出來,0
+無法Logon SAP  ....   #12948,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法logon sap  ....,0
+#11475 CITRIX 無法連上,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,citrix 無法連上,0
+can''t login SAP in QCI,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,can''t login sap in qci,0
+#13315  現在SAP進不去,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,現在sap進不去,0
+無法登入SAP37,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap37,0
+"填單時,key入project ID""PD2"",顯示無此ID",SAP-168(QCI),MM,Purchasing,Project,SAP-168,填單時key入project idpd2顯示無此id,0
+168 cost center 錯誤，JS30->JE10  soldto: sag-ear001  SO#:100249629  請幫忙修改,SAP-168(QCI),SD,Sales Process,Billing issue,SAP-168,168 cost center 錯誤js30je10  soldto sagear001  so,0
+"ZMBR七月份採購資料download 不下來,請求協助處理",SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,zmbr七月份採購資料download 來請求,0
+無法在SAP裡直接列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法在sap裡直接列印,0
+權限問題 無法登入SPA 輸入帳號密碼,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,權限問題 spa 輸入帳號密碼,0
+"無法登入SAP, 出現""檔案下載""訊息, 請協助處理!",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 出現檔案下載訊息,0
+maitain price after excute save  . be kick out by system .,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,maitain price after excute save  . be kick out by system,0
+SAP帳號被鎖...無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號被鎖..,0
+報表無法列印，以及不知如何取消列印。#11475,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,報表無法列印不知取消列印,0
+"User操作ZM02要將資料轉Excel表時有問題,請協助處理",SAP-168(QCI),MM,其它,其它,SAP-168,操作zm02要將資料轉excel表時有問題,0
+SAP無法登入 uer在大陸 #61617,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap uer,0
+權限不足無法登入 //sapfs3vm/ 。麻煩協助處理，謝謝!! #15938,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,權限不足 //sapfs3vm/,0
+使用者無法正常登入 SAP 使用，煩請協助處理。 ext 17101,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法正常登入 sap 使用,0
+CSAP23無法LOGON,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap23無法logon,0
+user登入後當機重新登入時無法登入(顯示已有使用者登入)#66665,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入後當機重新登入時顯示已有登入,0
+download fail,SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,download fail,0
+168連不上，請聯絡382+13908,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,168連不上,0
+"User需要手動轉入BOM表,煩請協助處理.",SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,需要手動轉入bom表,0
+"無法登入SAP, MY QUANTA顯示USER無權限",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap my quanta顯示無權限,0
+SO CA03 Schedule line MRP問題想請問你,SAP-168(QCI),HOME,PAL,問題解決及操作詢問,SAP-168,so ca03 schedule line mrp問題想請問你,0
+"CSMC user反應倉庫扣帳問題,Candy正協助處理中",SAP-168(QCI),MM,W/H,問題解決及操作,SAP-168,csmc 倉庫扣帳問題candy正中,0
+168上開領料單 無法列印 可是同事是可以的 請協助設定,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,168上開領料單 無法列印 是可以的 設定,0
+"user跑168領料時,出現錯誤無法進行操作",SAP-168(QCI),MM,其它,領退料問題,SAP-168,跑168領料時無法進行操作,0
+無ZMPV的權限,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,無zmpv的權限,0
+SAP登入帳號密碼遺失.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap登入帳號密碼遺失,0
+"user 想要查詢去年度的領退料情況,但查詢上有問題,需要協助",SAP-168(QCI),MM,其它,領退料問題,SAP-168,想去年度的領退料情況但上有問題需要協助,0
+想詢問如何安裝sap   分機：66170,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝sap,0
+"sap login不進去,上次登入是上禮拜五",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap login不進去上次登入是五,0
+想要詢問SAP 授權的帳號問題。分機：11496,SAP-168(QCI),Basis,帳號,新申請,SAP-168,詢問sap 授權的帳號問題,0
+user跑ZV14開SO 想詢問 ZPAO相關問題,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,跑zv14開so  zpao相關問題,0
+"登 入主機 : CTRIX SAP  31  登入QCI  帳號: 97041422  輸入帳號密碼, 連線時出現系統忙線訊息,無法登入  早上還可以,直到下午六七點後才發現錯誤訊息  分機:17125",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登 入主機  ctrix sap  31  登入qci  帳號   輸入帳號密碼 連線時出現系統忙線訊息  早上還可以下午六七點後才發現錯誤訊息,0
+"無法使用舊Cost center,",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,舊cost center,0
+SAP318無法登入 顯示被lock,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap318 顯示被lock,0
+分機12299 CSAP21LOGOIN FAIL,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,csap21logoin fail,0
+zn93到208的單位帶錯   #5276,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,zn93到208的單位帶錯,0
+user需安裝軟體,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,需安裝軟體,0
+要設定列印,SAP-168(QCI),Basis,印表機,設定,SAP-168,要設定列印,0
+SAP登入有問題,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap登入有問題,0
+PO無法刪除，請幫忙處理，使用者電話為0910208276，謝謝!!,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,po無法刪除,0
+進入內部應用系統點選csap27無法進入sap使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,進入內部應用系統點選csap27sap使用,0
+Account can not login 分機17009,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,account can not login,0
+新增citrix帳號,SAP-168(QCI),Basis,帳號,新申請,SAP-168,新增citrix帳號,0
+user申請SAP權限,SAP-168(QCI),Basis,帳號,新申請,SAP-168,申請sap權限,0
+在VA02中輸入credit memo 時出現錯誤訊息:credit control error 8100 has not been define,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,在va02中輸入credit memo 時訊息credit control error  has not been define,0
+user反應無法登入sap系統。#11272,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap系統,0
+"使用者欲登入CSAP37, 但連線後就停止不動, 請協助處理!",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,欲登入csap37 但連線後就停止不動,0
+"SAP之前登入可以使用的選項,現在不行使用",SAP-168(QCI),QM,其它,問題解決及操作,SAP-168,sap之前登入可以使用的選項現在不行使用,0
+user反映說SAP無法登入使用，會斷斷續續的,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap使用會斷斷續續的,0
+Citrix有問題無法使用。出現錯誤畫面：Cannot loac the Citrix ICA Client divers.#12318,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,citrix有問題畫面cannot loac the citrix ica client divers,0
+無法列印領料單,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法列印領料單,0
+報表列印成亂碼,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,報表列印成亂碼,0
+SAP 連線問題#17989,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 連線問題,0
+user有ZMPK 建價相關問題 請協助解決,SAP-168(QCI),MM,其它,其它,SAP-168,有zmpk 建價相關問題,0
+SAP Logon40無法登入  分機: 17021,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap logon40,0
+User Bom操作有問題，Excel無法Download  T code-ZV33,SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,bom操作有問題excel無法download  t codezv33,0
+密碼輸入錯誤被鎖住  請協助幫忙,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,密碼輸入錯誤被鎖住  幫忙,0
+CSAP31無法連線,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap31無法連線,0
+"跑完Cost BOM後, 出現無法開啓檔案, 然後出現ERROR的錯誤訊息",SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,跑完cost bom後 出現無法開啓檔案 的錯誤訊息,0
+在家裡登入vpn之後，無法使用sap   #15362,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,在家裡登入vpn之後sap,0
+"鍵入sold-tto party(win-amf2)後按新增即出現錯誤無法新增,分機:3220",SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,鍵入soldtto partywinamf2後按新增即無法新增,0
+"USER操作ZB34,不小先已先轉檔,無法再修改數量,煩請Jim協助處理",SAP-168(QCI),QM,其它,問題解決及操作,SAP-168,操作zb34不小先已先轉檔無法再數量jim,0
+Dell   TDS操作有錯誤訊息. User 人在大陸分機 #25693,SAP-168(QCI),HOME,WIN,問題解決及操作詢問,SAP-168,dell   tds操作有錯誤訊息.,0
+"帳號多人共用, 218 密碼使用ok, 相同密碼318 無法登入 (New QCA QCN QCH QCG QCB)  煩請協助重設318 密碼, TKS  共用工號: 10008069 陳國龍",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號多人共用 218 密碼使用ok 相同密碼318  new qca qcn qch qcg qcb  協助重設318 密碼 tks  共用  陳國龍,0
+登入SAP 168 輸入rd10/genius之後就進入第二層認證  輸入自己的工號跟密碼之後 出現  E: Entry is too long for the field.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入sap 168 輸入rd10/genius之後就進入第二層認證  輸入的跟密碼之後 出現  e entry is too long for the field,0
+Delivery number issue,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,delivery number,0
+無法login server,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法login server,0
+詢問設定sap folder 權限的問題  #18231,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,詢問設定sap folder 權限的問題,0
+"168權限被lock, 請求解開",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,168權限被lock 請求解開,0
+User 反應ZMFW扣帳出現問題.,SAP-168(QCI),SD,Project,Sub PO,SAP-168,zmfw扣帳出現問題,0
+user忘記密碼  (緊急),SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,忘記密碼  緊急,0
+無法login進SAP系統,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法login進sap系統,0
+最近使用sap 27 經常無法登入 mvpn : 15412,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,使用sap 27,0
+"欲新增SAP帳號, 詢問如何操作, #15732",SAP-168(QCI),Basis,帳號,新申請,SAP-168,欲新增sap帳號 詢問,0
+"欲申請318權限, 詢問如何申請, 請協助處理",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,欲申請318權限 詢問,0
+#12755 logon SAP時 按下enter鍵或其他鍵都會發出很大聲的嗶嗶警示音，想詢問是否有取消的方法,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,logon sap時 按下enter鍵或鍵都會發出很大聲的嗶嗶警示音是否有取消的方法,0
+無法LOGON SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+"user 換新電腦, OS 是 Windows7, 就無法透過網路打開 citrix client (#12904)",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,換新電腦 os 是 windows7 就無法透過網路打開 citrix client,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+can''t find SAP icon on Quanta EIP,SAP-168(QCI),Basis,帳號,新申請,SAP-168,can''t find sap icon on quanta eip,0
+user反映無法login SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法login sap,0
+one shipment with multiple third party,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,one spment with multiple trd party,0
+SAP無法連接 進168,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap無法連接 進168,0
+SAP安裝有問題,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,sap安裝有問題,0
+"user反應其帳號被lock住了,要請我們MIS協助其處理,分機5477",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,其帳號被lock住了要請mis,0
+sap the secord level logon fail,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap the secord level logon fail,0
+"SAP無法選擇下一個畫面,請協助",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap下一個畫面,0
+SAP進不去。#11664,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap進不去,0
+詢問  CSAP36 權限如何申請,SAP-168(QCI),Basis,帳號,新申請,SAP-168,詢問  csap36 權限,0
+"user反應在操作使用CSAP32時,系統會出現無回應的狀態,無法正常使用~煩請協助處理,謝謝!! #13820",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,在操作使用csap32時系統會出現無回應的狀態無法正常使用,0
+168   輸入ZBEI時  顯示Err 601  聯絡分機 13346,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,168   輸入zbei時  顯示err 601,0
+MBU user(#18263)有狀況需請MIS協助處理,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,mbu 有狀況需請mis,0
+SAP Print 設定 #15616,SAP-168(QCI),Basis,印表機,設定,SAP-168,sap print 設定,0
+SAP更新之後無法登入 請協助處理,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap更新之後,0
+安裝SAP,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝sap,0
+user 92031703.91072209 無法登入CSAP26    #11457,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,. csap26,0
+SAP 168無法連線,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 168無法連線,0
+印表機無法列印SAP文件,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,印表機無法列印sap文件,0
+SAP Account 申請,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap account 申請,0
+請協助增設印表機  聯絡電話: 17613,SAP-168(QCI),Basis,印表機,設定,SAP-168,增設印表機,0
+SAP33 無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap33,0
+QSA1 印表機無法列印 請協助處理,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,qsa1 印表機無法列印,0
+無法登入SAP 168,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 168,0
+新進人員須開通權限,SAP-168(QCI),Basis,帳號,新申請,SAP-168,新進人員須開通權限,0
+無法登入168系統,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,168系統,0
+"舊部門原先使用 sap 34,  新部門使用sap35, 但法登入sap35  若用 sap 34 則無法登入 新部門所給的帳號,",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,舊部門原先使用 sap 34  新部門使用sap35 但法登入sap35  若用 sap 34 則 新部門所給的帳號,0
+權限不足，尋求協助。　#16222,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,權限不足尋求協助,0
+申請SAP帳號 #18865,SAP-168(QCI),Basis,帳號,新申請,SAP-168,申請sap帳號,0
+進myquanta 點內部應用系統要進sap 出現無法顯示網頁 今天早上都還可以上的 請協助檢查設定,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,進myquanta 點內部應用系統要進sap 出現無法顯示網頁 早上都還可以上的 檢查設定,0
+"USER反應說有一個料號被MISPP給LOCK住,料號是ejm2zzzwiw4,請幫忙其處理,分機1130",SAP-168(QCI),MM,其它,領退料問題,SAP-168,有一個料號被mispp給lock住料號是ejm2zzzwiw4,0
+#12988  幫新人申請帳號,SAP-168(QCI),Basis,帳號,新申請,SAP-168,幫新人申請帳號,0
+該user反應執行ZMD5很慢...v,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,該執行zmd5很慢...v,0
+會計單位 USER反應CSAP26無法登入使用#11407,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,會計單位 csap26使用,0
+#11411  SAP帳號忘記登出，再登入結果被鎖住，無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號忘記登出再登入被鎖住,0
+user 反應無法login SAP 分機#11665,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法login sap,0
+"user 勾BOM Process詢問,請與user連繫.",SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,勾bom process詢問,0
+分機：(381)11421 問題 無法登入SAP系統，請協助處理,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,問題 sap系統,0
+"QSMC 產銷User(#382 13551)想請教關於放量的問題,煩請協助處理",SAP-168(QCI),MM,其它,其它,SAP-168,產銷 想請教的問題,0
+sap 無法login  分機:15248,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 無法login,0
+User想申請VNC線上教學SD Module.,SAP-168(QCI),SD,其它,教育訓練,SAP-168,想申請vnc線上教學sd module,0
+sap logon issue,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap logon,0
+使用共同帳號95072403無法登入SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,使用共同帳號sap,0
+wonder if can transfer the account of previous user to another user. please reply to this person.,SAP-168(QCI),Basis,帳號,新申請,SAP-168,wonder if can transfer the account of previous  to another . please reply to ts person,0
+無法login SAP.  分機11415,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法login sap.,0
+二層式帳號登入有問題,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,二層式帳號登入有問題,0
+User反應無法登入168.268.318，請幫忙處理，謝謝！,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,168.268.318,0
+csap23無法login 分機18495,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap23無法login,0
+詢問SAP 印表機代碼,SAP-168(QCI),Basis,印表機,設定,SAP-168,詢問sap 印表機代碼,0
+"使用者無法登入SAP系統, 請協助處理!",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap系統,0
+"USER反應有個JOB程式有問題,煩請Charles協助處理.#26077",SAP-168(QCI),PP,其它,SCITS,SAP-168,有個job程式有問題charles,0
+"資料透過FTP上傳,但是沒有寫到Home",SAP-168(QCI),HOME,KEN,問題解決及操作詢問,SAP-168,資料透過ftp上傳沒有寫到home,0
+無法安裝sap。18636,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,無法安裝sap,0
+User想問關於權限的問題,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,想問權限的問題,0
+"CSAP22 太慢,要開Delivery 急件",SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,csap22 太慢要開delivery,0
+SAP無法列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap無法列印,0
+PLM系統問題,SAP-168(QCI),PP,其它,問題詢問及操作,SAP-168,plm系統問題,0
+po裡的zapr有問題 #13624,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,po裡的zapr有問題,0
+SAP舊系統無法進入查資料,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap舊系統查資料,0
+無法連線CSAP21 #18281,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法連線csap21,0
+"USER反應說無法LOGIN SAP 168,分機15810",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法login sap 168,0
+sap 帳號無法登入 #11475,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap 帳號,0
+諮詢如何安裝SAP軟體  #15927,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,諮詢安裝sap軟體,0
+無法登入SAP，顯示”若要連線到遠端電腦必須要有使用者權限”,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,sap顯示”若要連線到遠端電腦要有權限”,0
+PC09-B033,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,pc09b033,0
+因調部門在myquanta網頁登入要從原來的csap23-->csap21,SAP-168(QCI),Basis,帳號,新申請,SAP-168,因調部門在myquanta網頁登入要從原來的csap23csap21,0
+"SAP Key上Password會登出 ,   無法使用, 請協助處理  Ext:12651",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap key上password會登出,0
+SAP無法列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap無法列印,0
+CSP21帳號無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,csp21帳號,0
+"無法logon SAP-168,分機:38226059",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap168,0
+無使用CSAP22的權限   #18910,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,無使用csap22的權限,0
+ecn問題,SAP-168(QCI),PP,ECN,ECN 未同步QSMC,SAP-168,ecn問題,0
+"SAP25,  帳號:BY-TWB1  密碼 :12345678  #12026",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap25  帳號bytwb1  密碼,0
+"離職人員的帳號已停用, 想要移轉再使用  #11532",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,離職人員的帳號已停用 移轉再使用,0
+PO被luck,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,po被luck,0
+Zv17 fail to print out,SAP-168(QCI),SD,Sales Process,Billing issue,SAP-168,zv17 fail to print out,0
+MyQuanta 中無Sap Login icon,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,myquanta 中無sap login icon,0
+登入時出現錯誤訊息 (#15899),SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入時訊息,0
+USER CAN''T LOGON SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can''t logon sap,0
+"sap無法列印,user非常緊急請優先處理 分機:66665",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap無法列印緊急請優,0
+citrix畫面沒有登入SAP的選項（第一次登入設定）,SAP-168(QCI),Basis,帳號,新申請,SAP-168,citrix畫面沒有登入sap的選項第一次登入設定,0
+分機17571(CSAP36),SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap36,0
+"We need to create CR in 168, please help advise w/c billing document # we need to put on the blank space",SAP-168(QCI),SD,Master Data,Return/Reverse order type,SAP-168,we need to create cr in 168 please help advise w/c billing document  we need to put on the blank space,0
+需開放sap34權限  EXT:17831,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,需開放sap34權限,0
+can''''t logon SAP EXT 218028,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can''''t logon sap,0
+使用97062317登入會發生閃退的情況,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,使用登入會發生閃退的情況,0
+"ET BU的USER需要一個Invoice&Packing list的巨集安裝的SOP,煩請與USER聯絡協助處理.",SAP-168(QCI),SD,其它,Install 巨集,SAP-168,et bu的需要一個invoicepacking list的巨集安裝的sop與,0
+CSAP33連不上,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap33連不上,0
+user說cost center 12/1已經修改了  但sap cost cnter 並未更新,SAP-168(QCI),SD,Master Data,Cost center issue,SAP-168,cost center 12/1已經了  但sap cost cnter 並未更新,0
+分機11670 SAP 第二層帳號無法Logon,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 第二層帳號無法logon,0
+執行程式很慢,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,執行程式很慢,0
+"無法登入CSAP21, 請協助處理",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,csap21,0
+使用者反應要將所需SAP庫存報表upload上QRDCFS02時發生權限不足請協助處理聯絡電話#13622,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,要將所需sap庫存報表upload上qrdcfs02時發生權限不足,0
+"Login SAP 時下方出現多icon,且無法Login 一般",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,login sap 時下方出現多icon且無法login,0
+"citrix執行時無法完成,請打216566",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,citrix執行時無法完成6,0
+詢問開sap帳號事宜。分機：16727,SAP-168(QCI),Basis,帳號,新申請,SAP-168,詢問開sap帳號事宜,0
+安裝SAP有問題，分機12777,SAP-168(QCI),Basis,帳號,新申請,SAP-168,安裝sap有問題,0
+"user反應使用BPM系統裡的Customer Data 有表單資料與原始資料不符情形,需要做修改,煩請相關同仁協助處理.",SAP-168(QCI),SD,Master Data,Customer Code Create,SAP-168,使用bpm系統裡的customer data 有表單資料與原始資料不符情形需要做相關,0
+"SAP帳號登入出現1/30到期的提示,請問該如何解決 (帳號94120512)  分機18961",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號登入出現1/30到期的提示 帳號,0
+"無法登入SAP帳號,沒法工作",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號沒法工作,0
+尋問SAP 34Account 相關問題. 因新人剛報到但登不進去想尋問一下.   EXT:13432,SAP-168(QCI),Basis,帳號,新申請,SAP-168,尋問sap 34account 相關問題. 因新人剛報到但登不進去想尋問一下.,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+user重新upload後就無法登入SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,重新upload後就sap,0
+ex:7138 無法連線,SAP-168(QCI),HOME,KEN,問題解決及操作詢問,SAP-168,ex 無法連線,0
+SAP進不去(出現Error88),SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap進不去88,0
+BOM表(ZV29I)跑不出來請協助處理.  Ext:15987,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,bom表zv29i跑不出來.,0
+"user反應SAP 168 跑SE16 速度很慢,其它同事也是如此,煩請相關人員協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 168 跑se16 速度很慢也是相關人員,0
+"無法列印SAP文件, 例如 INVOICE...",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法列印sap文件  invoice..,0
+SAP 無法logon,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 無法logon,0
+T-code:JV29  系統顯示沒有被授權,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,tcodejv29  系統顯示沒有被授權,0
+SAP CSAP23無法登入,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap csap23,0
+"User反應前天刷過SO後將Delivery pass給關務,關務方面表示無法帶出資料,但同樣的動作昨天卻又可以正常,煩請協助處理前天不正常的資料.",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,前天刷過so後將delivery pass給關務關務方面表示無法帶出資料但同樣的動作卻又可以正常前天不正常的資料,0
+user在168執行ZMAW時 一直出現PO錯誤 請協助處理,SAP-168(QCI),SD,Project,Quotation,SAP-168,在168執行zmaw時 出現po錯誤,0
+ZMD5不能download file  EXT:16890,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,zmd5不能download file,0
+user輸了錯誤的密碼，導致帳號被lock住。現在key正確的密碼也進不去了。    #11423,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,輸了錯誤的密碼導致帳號被lock住現在key正確的密碼也進不去了,0
+user反應SAP列印，分機12545,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap列印,0
+SAP進不去  #11147,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,sap進不去,0
+部門代碼更換 兩張delivery的cost center有誤 請協助處理,SAP-168(QCI),SD,Master Data,Cost center issue,SAP-168,部門代碼更換 兩張delivery的cost center有誤,0
+請協助使用者安裝SAP Client,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝sap client,0
+SAP 168 delivery  issue,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,sap 168 delivery,0
+遠端桌面失敗無法登入,SAP-168(QCI),Basis,帳號,新申請,SAP-168,遠端桌面失敗,0
+帳號移轉後的權限有問題，請盡快處理!!EXT:382+42621,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號移轉後的權限有問題,0
+無法登入，使用者為採購部門。,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,為採購部門,0
+"User(#13497)反應run ZV17時有問題,請協助處理.",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,反應run zv17時有問題,0
+Cost Center掛錯,SAP-168(QCI),SD,Master Data,Cost center issue,SAP-168,cost center掛錯,0
+無法登入CSAP40,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap40,0
+168 ZMAW  假收假出出現error，跑不出來  #61586,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,168 zmaw  假收假出跑不出來,0
+Customer data maintain 詢問操作. #26068,SAP-168(QCI),SD,Master Data,Customer Code Create,SAP-168,customer data maintain 詢問操作.,0
+sap168 218皆無法列印 請協助設定,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap168 218皆無法列印 設定,0
+User不知如何安裝SAP,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,不知安裝sap,0
+進入後發生網路存取錯誤,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,進入後發生網路存取錯誤,0
+更新後無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,更新後無法logon sap,0
+"請問如何安裝SAP21,需要申請使用者帳號嗎？",SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,請問安裝sap21需要申請帳號嗎,0
+ZMAW 扣帳出現問題#62575,SAP-168(QCI),SD,Project,Quotation,SAP-168,zmaw 扣帳出現問題,0
+該user 要安裝SAP程式  請協助  分機 18829,SAP-168(QCI),Basis,帳號,新申請,SAP-168,該 要安裝sap程式,0
+myquanta頁面沒有可以logon的圖示與安裝cirtix的連結,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,myquanta頁面沒有可以logon的圖示與安裝cirtix的連結,0
+SO 的 so type寫錯可以改嗎 13176,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,so 的 so type寫錯可以改嗎,0
+"NB1 User(#11834)反應ZM02跑CS12 (268) & CS50 (208)時會發生當掉的現象,其它同事也是一樣的情形,煩請協助處理.",SAP-168(QCI),MM,其它,其它,SAP-168,nb1 反應zm02跑cs12 268  cs50 208時會發生當掉的現象也是的情形,0
+無法看到價錢,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,無法看到價錢,0
+"CSAP23無法登入SAP,煩請協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap23sap,0
+"PDM系統Release料號,但SAP上看不到",SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,pdm系統release料號但sap上看不到,0
+user無法列印SAP資料,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法列印sap資料,0
+SO/Delivery creation issue,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,so/delivery creation,0
+sap Cirix  issue,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,sap cirix,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+CAN NOT USE ANY SAP CLIENT,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can not use any sap client,0
+csap33沒辦法列印，分機13377,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,csap33沒辦法列印,0
+SAP-33無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap33,0
+user反應登入久置後，就無法登入，請幫忙處理，謝謝!,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,登入久置後就,0
+208假收假出無法到168,SAP-168(QCI),SD,Project,Quotation,SAP-168,208假收假出無法到168,0
+SAP安裝問題#16957,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,sap安裝問題,0
+"達丰USER需要做APO程式的測試,煩請Sworm協助處理.",SAP-168(QCI),MM,Purchasing,Addon Function,SAP-168,達豐需要做apo程式的測試sworm,0
+create SO issue,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,create so,0
+SAP帳號登不進去,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號登不進去,0
+"今天6和1的SERVER跑太慢, 使用者要求速度加快  PO要開很久.....    分機:11285",SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,6和1的server跑太慢 要求速度加快  po要開很久.....,0
+Please help to install SAP,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,please help to install sap,0
+無法logon,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon,0
+SAP SO 帶不出價錢  分機12631,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,sap so 帶不出價錢,0
+"使用者反應登入系統有問題,請協助處理",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入系統有問題,0
+"GOB申請料號,一般申請完後半小時內就可在user的系統資料匣中看到資料,但今天上午申請的到目前都未收到任何訊息",SAP-168(QCI),MM,其它,其它,SAP-168,gob申請料號申請完後半小時內就可在的系統資料匣中看到資料但上午申請的到目前都未收到訊息,0
+SO無法存檔..,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,so無法存檔.,0
+無法連線EDI 810,SAP-168(QCI),HOME,WIN,問題解決及操作詢問,SAP-168,無法連線edi 810,0
+在家用ADSL無法連上CSAP32,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,在家用adsl無法連上csap32,0
+"user使用ZV33抓COST BOM,但是等了半小時還抓不下來,請協助其處理",SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,使用zv33抓cost bom等了半小時還抓來,0
+can''t log on SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can''t log on sap,0
+"財務部成本會計課user反應先前請Jim用.NET寫的一支report的程式,用於處理國稅局報廢清冊,user反應某些欄位的長度過小,導致有些數字無法正常顯示,煩請Jim協助處理.",SAP-168(QCI),QM,其它,問題解決及操作,SAP-168,財務部成本會計課先前請jim用.net寫的一支report的程式用於國稅局報廢清冊欄位的長度過小導致數字無法正常顯示jim,0
+SAP無法進入(已重開機),SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap已重開機,0
+vendor code找不到,SAP-168(QCI),MM,其它,其它,SAP-168,vendor code,0
+can''t access SAP,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,can''t access sap,0
+"查詢完report無法存到電腦內，不管是用V,U槽都不行。#13069",SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,完report無法存到電腦內是用vu槽都不行,0
+"USER無法LOGON SAP,發現為MSN7.5衝突問題,已協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap發現為msn7.5衝突問題,0
+無法連線印表機,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法連線印表機,0
+sap無法連線，有換過部門。分機：16246,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap無法連線有換過部門,0
+無法login SAP23,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法login sap23,0
+168 假收假初步成功 分機 382-19938,SAP-168(QCI),SD,Sales Process,shipment issue,SAP-168,168 假收假初步成功,0
+SAP的account (94030130) 被鎖住了~ 請幫忙!,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap的account  被鎖住了,0
+user反應無法登入168系統，請協助處理。,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,168系統,0
+原來的帳唬密碼進不去,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,原來的帳唬密碼進不去,0
+sap 跳出視窗 系統資源不足無法完成操作  #16752,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 跳出視窗 系統資源不足無法完成操作,0
+登入後無法正常使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入後無法正常使用,0
+"填寫退料單,有操作上的問題",SAP-168(QCI),MM,其它,領退料問題,SAP-168,填寫退料單有操作上的問題,0
+"USER使用MMBE查尋料號:af180bo1173出現無此料號,另外也常發生同一料號同時間做兩次查詢,但前一次有詢到,但下一次就查不到的情形發生,煩請相關同仁協助處理.",SAP-168(QCI),MM,其它,其它,SAP-168,使用mmbe查尋料號af180bo出現無此料號也常發生同一料號間做兩次但前一次有詢到但下一次就查不到的情形發生相關,0
+"User要加入新的Project,但是不確定SAP Cost ZMBA如何處理  #15719",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,要加入新的project不確定sap cost zmba,0
+查詢 QAC6是誰一直在印,SAP-168(QCI),Basis,印表機,刪除資料,SAP-168,qac6是誰在印,0
+"USER無法LOGON SAP,為MSN7.5設定衝突問題,修改登錄檔後已解決",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap為msn7.5設定衝突問題登錄檔後,0
+要申請sap系統使用權限，請問申請單是: 資訊需求申請單→SAP→申請Citrix帳號嗎?  跑完申請單就可以logon了，不用下載其他東西對吧? 懇請協助，感謝!,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,要申請sap系統使用權限請問申請單是 資訊需求申請單→sap→申請citrix帳號嗎  跑完申請單就可以logon了不用下載東西對吧 懇,0
+SAP網頁無法登入,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap網頁,0
+帳號被鎖住,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,帳號被鎖住,0
+zhwe?有使用者手冊．不知如何使用，所以無法執行扣帳動作　分機2630,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,zhwe有手冊.不知無法執行扣帳動作,0
+無法使用帳號無法登入SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號sap,0
+"ECN: 九月0762, user欲加速ECN,快進SAP, 分機:42627",SAP-168(QCI),PP,ECN,ECN 未同步QSMC,SAP-168,ecn 九月 欲加速ecn快進sap,0
+"USER反應File Servr : QCITDS05無法連接,煩請相關同仁協助處理.",SAP-168(QCI),HOME,WIN,問題解決及操作詢問,SAP-168,file servr  qcitds05無法連接相關,0
+User因工作需求想要申請查看BOM的cost，以方便工作進行，請MIS人員協助。分機#2650,SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,因工作需求申請查看bom的cost以方便工作進行請mis人員協助,0
+user的帳號是95032018，他昨天可以登入，今天不行登入。  我有去看他是不是密碼記錯了，想幫他改密碼，  但是進去218發現，他的帳號根本不存在，可是他說他昨天有登入  EXT:12318,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,的帳號是他可以登入不行登入  我有去看他是密碼記錯了想幫他改密碼  進去218發現他的帳號根本不存在他說他有登入,0
+SAP沒有權限可以登入。分機：16458,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,sap沒有權限可以登入,0
+治具相關問題 T code :ZMI1,SAP-168(QCI),PP,工單,工單收發料問題,SAP-168,治具相關問題 t code zmi1,0
+user表示透過SAP無法列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,表示透過sap無法列印,0
+沒有sap跟印表機的使用權限,SAP-168(QCI),PP,其它,SCITS,SAP-168,沒有sap跟印表機的使用權限,0
+印表機無法連線,SAP-168(QCI),Basis,印表機,設定,SAP-168,印表機無法連線,0
+76PO的建立流程疑問 (事務性採購)  聯絡方式 : 382-61577#,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,76po的建立流程疑問 事務性採購  方式,0
+使用者發現有一個Inventory Report有問題，請幫忙處理，謝謝!,SAP-168(QCI),HOME,KEN,問題解決及操作詢問,SAP-168,發現有一個inventory report有問題,0
+user需要整理invoice與packing list的files,SAP-168(QCI),SD,其它,Install 巨集,SAP-168,需要整理invoice與packing list的files,0
+"無法登入SAP 168 及 268,錯誤訊息為 User already log on another terminal",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 168 及 268錯誤訊息為  already log on another terminal,0
+在家連sap，無法登入，sap帳號88121501，mvpn 15739,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,在家連sapsap帳號,0
+"點選列印並無反應,是否有Job卡住,請協助處理,謝謝",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,點選列印反應是否有job卡住,0
+User''s having trouble logging in to system,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,''s having trouble logging in to system,0
+"無法登入CSAP24,連絡分機11252",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap24,0
+user有出貨delivery相關的問題 請協助處理,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,有出貨delivery相關的問題,0
+"在Intra System上看不到SAP系統,請協助處理",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,在intra system上看不到sap系統,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+user無法logon SAP 請協助處理,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+NB3業務用   帳號 92060219  (Sunny Yu 游采驊)   在輸入密碼後按enter視窗會自動關閉  帳號無法使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,nb3業務用   帳號    游採驊   在輸入密碼後按enter視窗會自動關閉  帳號,0
+透過遠端VPN無法登入  分機: 12422,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,透過遠端vpn,0
+無法連結SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法連結sap,0
+User反應在ZMBR裡597的訂單資料查不到 請幫忙處理 謝謝,SAP-168(QCI),SD,Project,3rd party issue,SAP-168,在zmbr裡597的訂單資料查不到,0
+印表機更新，不知道如何在SAP系統中設定印表機  ext:12381,SAP-168(QCI),Basis,印表機,設定,SAP-168,印表機更新不知道在sap系統中設定印表機,0
+無法列印NB4的發票,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法列印nb4的發票,0
+user的sap down bom權限不足,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,的sap down bom權限不足,0
+"user反應在ZKD5中看不到資料,但文件中心跟他們說已經送上去了,請與其聯絡幫忙其處理,分機42625",SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,在zkd5中看不到資料但文件中心跟說已經送了,0
+無法開APO,SAP-168(QCI),PP,其它,SCITS,SAP-168,無法開apo,0
+"SAP Printer 無法列印  ...  QAC3;QAC5  北棟,2F,會計課  , #11413",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap printer 無法列印  ...  qac3qac5  北棟2f會計課,0
+"USER 無法 LOGON SAP, EXT13142",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法 logon sap,0
+申請安裝Citrix,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,申請安裝citrix,0
+BPM SYS Create Customer Data save fail.,SAP-168(QCI),SD,Master Data,Customer Code Create,SAP-168,bpm sys create customer data save fail,0
+sap log issue : 1 mins later the system will kick out user,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap log  mins later the system will kick out,0
+SAP無法列印 ＃11403,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap無法列印,0
+無法Logon SAP 168.268,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap 168.268,0
+登入sap 要由p25改為p23 請協助處理,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,登入sap 要由p25改為p23,0
+user 反應 SAP 無法login # 13315,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap 無法login,0
+User has questions about new account application,SAP-168(QCI),Basis,帳號,新申請,SAP-168,has questions about new account application,0
+SAP printer 問題  無法列印  #:  11289,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap printer 問題  無法列印,0
+SAP出貨，Batch版本無法maintain  分機:3246,SAP-168(QCI),SD,Sales Process,shipment issue,SAP-168,sap出貨batch版本無法maintain,0
+SAP帳號申請流程諮詢，分機12538,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap帳號申請流程諮詢,0
+QAC4 QAC6均無法列出資料,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,qac4 qac6均無法列出資料,0
+CSAP33  saplogon.exe 輸入帳號密碼後 一直卡在 正在連線到 10.243.22.59.....,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,csap33  saplogon.exe 輸入帳號密碼後 卡在 連線到 10.243.22.59....,0
+該同仁與申請SAP使用者帳號 但不清楚資訊需求申請單 該如何填寫 煩請協助處理  該同仁分機:15182,SAP-168(QCI),Basis,帳號,新申請,SAP-168,該與申請sap帳號 但不清楚資訊需求申請單 該   該,0
+"935 Quantity > 933 Quantity , so It can not be processed.",SAP-168(QCI),SD,Master Data,Cost center issue,SAP-168,935 quantity  933 quantity  so it can not be processed,0
+我们将SAP中的packing转到SDS已经完成，但是将SDS packing list transfer to SAP 时遇到困难，请QCI MIS帮忙解决。Thanks！,SAP-168(QCI),SD,Project,Sub PO,SAP-168,將sap中的packing轉到sds已經完成將sds packing list transfer to sap 時遇到困難請qci mis,0
+CSAP23無法login，帳號85090205,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap23無法login帳號,0
+無法下載資料,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,無法下載資料,0
+sap-214 (QCH-318)無法登入。分機：13230,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap214 qch318,0
+crtrix無法登入 聯絡電話15912,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,crtrix,0
+抓不到資料   #18913,SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,抓不到資料,0
+無法進入SAP 168,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 168,0
+sap logon fail,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap logon fail,0
+SAP無法登入 出現紅色叉叉錯誤訊息 請協助處理,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 出現紅色叉叉錯誤訊息,0
+USER反應帳號登入有問題。#17408,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號登入有問題,0
+無法登入SAP  TRD(TCC_General)_218_NEW,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap  trdtcc_general_218_new,0
+"User反應在內部應用系統無法看到SAP的印表機,煩請協助設定新增",SAP-168(QCI),Basis,印表機,設定,SAP-168,在內部應用系統無法看到sap的印表機協助設定新增,0
+無法logon CSAP23,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法logon csap23,0
+sap printer 無法列印--CSAP23,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap printer 無法列印csap23,0
+sap-32 印表機不知如何設定。分機：17729,SAP-168(QCI),Basis,印表機,設定,SAP-168,sap32 印表機不知設定,0
+無法登入CITRIX  CSAP21    分機: 12408,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,citrix  csap21,0
+執行假收假出程式會出現Error: not maintain accounting view,SAP-168(QCI),SD,Project,Quotation,SAP-168,執行假收假出程式會 not maintain accounting view,0
+該同仁反應無法登入SAP系統 煩請協助處理 聯絡分機:15793,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,該反應sap系統,0
+"分機16243,csap22 無法登入",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,csap22,0
+無法登入SAP，顯示”如果要登入這個遠端電腦要有使用者權限”,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,sap顯示”要登入遠端電腦要有權限”,0
+SAP 168 delivery  issue,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,sap 168 delivery,0
+"USER反應SAP168/298帳號被LOCK住,煩請協助處理.",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap168/298帳號被lock住,0
+安裝SAP,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝sap,0
+SAP 168  無帳號...  #13174,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap 168  無帳號...,0
+"SAP帳號87042501,無法登入，分機17727",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap帳號,0
+creit memo issue ; can not get price,SAP-168(QCI),SD,Sales Process,Billing issue,SAP-168,creit memo   can not get price,0
+"NB6 USER反應sap系統列印時會出現NB3的印表機,請協助修正處理 #12992",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,nb6 sap系統列印時會出現nb3的印表機,0
+"User下午進入內部應用系統欲使用sap,發現並無icon可點選,煩請協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,下午進入內部應用系統欲使用sap發現icon可點選,0
+"USER操作SAP 168 ZMQW時,net Price欄位資料帶不出來,USER提供了兩個Delivery Number:570044225,570044226,煩請相關同仁協助處理",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,操作sap 168 zmqw時net price欄位資料帶不出來提供了兩個delivery number相關,0
+電腦重灌後，SAP無法正常 #13377,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,電腦重灌後sap無法正常,0
+"新增退料單,系統顯示無此機種名稱   T-Code:ZMI1H   分機:16809",SAP-168(QCI),MM,Purchasing,Addon Function,SAP-168,新增退料單系統顯示無此機種名稱   tcodezmi1h,0
+"無法登入CSAP33, 請協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,csap33,0
+帳號問題無法使用，使用者人在廣輝聯絡電話38318009,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號問題人在廣輝,0
+user 開啟點料單時被告知版本是錯的，但有再確認版本是沒有問題的,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,開啟點料單時被告知版本是錯的但有再版本是沒有問題的,0
+"達丰USER反應假收假出原為系統自行會帶出資料來,但今日USER發現系統並沒有將資料帶出,煩請相關同#協助處理.",SAP-168(QCI),SD,Master Data,其它,SAP-168,達豐假收假出原為系統自行會帶出資料來但今日發現系統有將資料帶出相關同,0
+是否有multi-source的相關功能可以利用,SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,是否有multisource的相關功能可以利用,0
+問題描述在附件中,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,問題描述在附件中,0
+10/17 no call off,SAP-168(QCI),HOME,KEN,問題解決及操作詢問,SAP-168,10/17 no call off,0
+LV Order 無法建立 分機16281,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,lv order 無法建立,0
+SAP無法登入   CSAP22   #13084,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap   csap22,0
+詢問如何設定sap的printer  #16162,SAP-168(QCI),Basis,印表機,設定,SAP-168,詢問設定sap的printer,0
+SAP33 無法進入(無權限),SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap33 無權限,0
+User需重新安裝SAP  #18231,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,需重新安裝sap,0
+帳號無法登入SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號sap,0
+前幾天才反應過，但今天又不能登入了，user想了解如何正確使用系統，以避免一直發生問題。#15169,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,前幾天才反應過但又不能登入了想瞭解正確使用系統以避免發生問題,0
+SAP 帳號:10202030  新密碼 :qDi-3364805 ，在SAP34使用，更新密碼之後不能登入。  ext:10322,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap 帳號  新密碼 qdi05 在sap34使用更新密碼之後不能登入,0
+"User反應無法經由Myquanta進入內部應用系統,系統會要求輸入登入帳密,但輸入後依然無法使用,煩請協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法經由myquanta進入內部應用系統系統會要求輸入登入帳密但輸入後依然,0
+CSAP27無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,csap27,0
+要修改description,SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,description,0
+"user反應有個文件路徑昨晚10點前都還可使用,但在之後就顯示無法找到該文件,煩請Charles協助處理",SAP-168(QCI),PP,其它,問題詢問及操作,SAP-168,有個文件路徑昨晚10點前都還可使用但在之後就顯示無法找到該文件charles,0
+使用者排的Job一直被刪除，麻煩你幫忙看看，今天此Job務必要執行完畢，謝謝!!,SAP-168(QCI),Basis,其它,刪除Job,SAP-168,排的job被刪除你幫忙看看此job務必要執行完畢,0
+開啓登入頁面出現亂碼,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,開啓登入頁面出現亂碼,0
+citrix issue,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,citrix,0
+安裝issue .無法登入或安裝失敗,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝 .或安裝失敗,0
+無法進入SAP 168  #11475,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 168,0
+SAP 無法使用.請協助處理.,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap .,0
+SAP不能由網頁登入,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap不能由網頁登入,0
+"無法logon SAP 168,298",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+USER反應說第二層無法logon,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,第二層無法logon,0
+CSAP37，218 帳號無法登入。,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,csap18 帳號,0
+"進入SAP操作時, 系統跑很慢, 要上傳資料時一直間接性當機~",SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,進入sap操作時 系統跑很慢 要上傳資料時間接性當機,0
+user輸入料號是BAM48350008，保存的時候不能保存，系統出現這個料EOL,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,輸入料號是bam保存的不能保存系統出現料eol,0
+SAP PRINTER顯示離線無法列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap printer顯示離線無法列印,0
+user SAP帳號關掉後被卡在系統中無法再登入.,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap帳號關掉後被卡在系統中無法再登入,0
+點選CSAP33後進行認證權限，一直顯示啟動中，卻無跑出SAP 畫面(3/5 還能正常使用)  應該不是卡在SAP帳號而是在我的電腦工號/密碼認證,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,點選csap33後進行認證權限顯示啟動中卻無跑出sap 畫面3/5 還能正常使用  應該卡在sap帳號在我的電腦/密碼認證,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+你好，重慶下單人員反應有少數訂單被系統自動取消的問題，請幫忙查一下原因。Thanks!    1. 進入SAP 使用T-code ZV14 下載 Order Balance Report  　Plant: CQ2A  　Sales Org: S7Q1  　勾選 V Including Balance =0! (只查未出貨的話就不選)  　勾選 V Sort by Material  　勾選 V Created by EDI  　勾選 V SO TYPE    2. 得出Order Balance Report，發現其中有些PO被砍單所以後方出現「-c」，例如：KUR-310072-c 和POMKJ-132005EXO-c     3. 和下單人員Kathy 確認後，KUR-310072 這張訂單她並沒有砍單，所以她又手動把訂單改回來了。  　和下單人員Eagle 確認後，POMKJ-132005EXO 這張訂單他並沒有砍單，所以我請他先保留資料別動，請MIS幫忙調查是什麼原因。    聽說類似這樣被系統自動砍單的狀況發生過幾次，請幫忙調查一下。如果需要檔案的話可與我聯絡。Thanks!,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,下單人員反應有少數訂單被系統自動取消的問題查一下原因    1. 進入sap 使用tcode zv14 下載 order balance report   plant cq2a   sales org s7q1   勾選 v including balance只查未出貨就不選   勾選 v sort by material   勾選 v created by edi   勾選 v so type    2. 得出order balance report發現po被砍單後方出現「c」kur2c 和pomkj5exoc     3. 和下單人員kathy 後kur2 這張訂單她有砍單她又手動把訂單改回來了   和下單人員eagle 後pomkj5exo 這張訂單他有砍單我請他先保留資料別動請mis幫忙調查是原因    聽說類似被系統自動砍單的狀況發生過幾次調查一下需要檔案可與,0
+安裝SAP,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝sap,0
+User帳號想要申請ZMF6的權限 分機是:11593,SAP-168(QCI),Basis,帳號,新申請,SAP-168,帳號申請zmf6的權限 是,0
+sap can''t logon,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap can''t logon,0
+第二層進不去--Change 第二層group.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,第二層進不去change 第二層group,0
+"倉庫的號碼要close掉,不再使用,請聯絡該user,電話: 7187, thanks.",SAP-168(QCI),MM,W/H,Authorization,SAP-168,倉庫的號碼要close掉使用該,0
+USER無法LOGIN進SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法login進sap,0
+"User反應在168 Creat 單號:100816662,在使用ZN93做218 SO轉換時~系統會發生ERROR~無法完成作業~煩請協助處理.",SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,在168 creat 單號在使用zn93做218 so轉換時系統會發生error無法完成作業,0
+citrix issue,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,citrix,0
+無法連上sap #11645,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法連上sap,0
+user反映說價格出不來,SAP-168(QCI),SD,Master Data,Cost center issue,SAP-168,價格出不來,0
+level 1 login fail,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,levellogin fail,0
+申請進入SAP的權限#13216,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,申請進入sap的權限,0
+請協助查尋6S5030 QCI 跟QSMC 的 SAP有多少Account   Ext:18001,SAP-168(QCI),Basis,帳號,新申請,SAP-168,查尋6s qci 跟 的 sap有account,0
+BOM是否可以展至最下層,SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,bom是否可以展至最下層,0
+無法存檔問題，請協助，謝謝～,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,無法存檔問題,0
+Sap列印設定問題,SAP-168(QCI),Basis,印表機,設定,SAP-168,sap列印設定問題,0
+15921 sap要down資料等待時間很久，之前不用等這麼久，有時還會出現失敗訊息，請協助處理。,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,sap要down資料等待時間很久之前不用等久有時還會出現失敗訊息,0
+第一層帳號 就無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,第一層帳號 就,0
+SAP存取路徑開放權限,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap存取路徑開放權限,0
+無法logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+USER無法LOGON SAP,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,無法logon sap,0
+#16529  希望協理(88051006)的帳號登入可以下載所有交換器的cost BOM,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,希望協理的帳號登入可以下載所有交換器的cost bom,0
+SAP-168 無法login,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap168 無法login,0
+請問要如何建立客人Vendor Code 請協助謝謝  EXT:17124,SAP-168(QCI),Basis,帳號,新申請,SAP-168,請問要建立客人vendor code,0
+SAP 一直重連,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,sap 重連,0
+"跑報表當掉,去工作管理員那結束處理程序後,  無法再次login,系統訊息:已經login了,請logout,繼續作業,  但logout一樣無法登入",SAP-168(QCI),MM,Purchasing,Addon Function,SAP-168,跑報表當掉去工作管理員那結束程序後  無法再次login系統訊息已經login了請logout繼續作業  但logout,0
+SAP26無法登入#11475,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap26,0
+user  登入SAP時發生錯誤.,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,登入sap時發生錯誤,0
+無法登入SAP，顯示”若要連線到遠端電腦必須要有使用者權限”,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,sap顯示”若要連線到遠端電腦要有權限”,0
+account locked,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,account locked,0
+so沒辦法刷,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,so沒辦法刷,0
+"SAP無法LOGON,申請人分機: 13309",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap無法logon申請人,0
+領料單列印問題,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,領料單列印問題,0
+ZMZA can''t use,SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,zmza can''t use,0
+訂單無法列印，未出現任何錯誤訊息,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,訂單無法列印未出現錯誤訊息,0
+"ZMF6, 想新增功能.",SAP-168(QCI),MM,Purchasing,放量問題,SAP-168,zmf6 想新增功能,0
+User said that BOM 51D02SS0014 can not be copied to SAP 208  Please help to handle it.  Phone #: 17114,SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,said that bom 51d02ss can not be copied to sap 208  please help to handle it.  phone,0
+登入SAP32無法成功,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入sap32無法成功,0
+upload後就無法登入sap了,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,upload後就sap了,0
+"想詢問, SAP安裝步驟   TEL:18515",SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,sap安裝步驟,0
+"之前有新增一個TYPE:LOGO,但是現在看不到那個選項可選擇,code:ZKD5",SAP-168(QCI),SD,Master Data,Return/Reverse order type,SAP-168,之前有新增一個typelogo現在看不到選項可選擇codezkd5,0
+sap168 298都進不去 請協助處理,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap168 298都進不去,0
+"user表示PDM已經release到SAP168但是未同步到298,煩請相關同仁協助處理",SAP-168(QCI),PP,ECN,ECN 未同步QSMC,SAP-168,表示pdm已經release到sap168未同步到298相關,0
+Customer BPM system,SAP-168(QCI),SD,Master Data,Customer Code Create,SAP-168,customer bpm system,0
+不良退料發生錯誤,SAP-168(QCI),MM,W/H,Authorization,SAP-168,不良退料發生錯誤,0
+操作問題，無法建立BOM。,SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,無法建立bom,0
+帳號被鎖住,SAP-168(QCI),Basis,帳號,新申請,SAP-168,帳號被鎖住,0
+"CTO訂單,系統自動建BOM,轉入SAP後找不到資料,煩請相關人員處理",SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,cto訂單系統自動建bom轉入sap後資料相關人員,0
+詢問 SAP安裝與操作  TEL:12626,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,詢問 sap安裝與操作,0
+無法安裝SAP,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,無法安裝sap,0
+"安裝Critix後,在Myquanta中還是看不到SAP Icon",SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,安裝critix後在myquanta中看不到sap icon,0
+"使用者詢問為何每次登入都需要輸入驗證資訊,請協助處理",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,詢問每次登入都需要輸入驗證資訊,0
+系統登入後出現 Error Message_Type_X 的錯誤訊息.,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,系統登入後出現 error message_type_x 的錯誤訊息,0
+VL02 locked and processing very slowly.,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,vl02 locked and processing very slowly,0
+SAP無法列印,SAP-168(QCI),Basis,印表機,刪除資料,SAP-168,sap無法列印,0
+"使用者反應想要詢問關於列印相關問題,煩請協助",SAP-168(QCI),Basis,印表機,無法列印,SAP-168,詢問列印相關問題協助,0
+"user反應sap無法登入使用,出現""ICA毀損...""等相關錯誤訊息,請協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap使用出現ica毀損...等相關錯誤訊息,0
+"成倉的user反應使用SAP168 ZV36時有兩個Shipment Number:2005605090,2005605091無法扣帳,煩請相關同仁協助處理.",SAP-168(QCI),SD,Sales Process,GI issue,SAP-168,成倉的使用sap168 zv36時有兩個spment number無法扣帳相關,0
+请帮忙转request no：TMPK968022--ttp--238。谢谢！,SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,轉request notmpk2ttp238,0
+會計科目157814 user稍早之前登入正常 線在要再登入顯示被自己lock住了 請協助處理,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,會計科目4 稍早之前登入正常 線在要再登入顯示被lock住了,0
+Down 2個BOM但無動作,SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,down 2個bom但無動作,0
+"User反應Download Cost BOM會當掉,重開後畫面有接續當掉前的狀態,但從此就無回應了...",SAP-168(QCI),PP,BOM,Cost BOM,SAP-168,download cost bom會當掉重開後畫面有接續當掉前的狀態但就無回應了..,0
+印表機不能印 分機15899,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,印表機不能印,0
+"USER反應操作ZKD5時在做Save Data時出現Error,煩請相關同仁協助處理",SAP-168(QCI),PP,其它,問題詢問及操作,SAP-168,操作zkd5時在做save data時相關,0
+PO release有問題,SAP-168(QCI),MM,Purchasing,PO issue,SAP-168,po release有問題,0
+user之前請Irwin修改ZVFW 但是現在還有一點小問題想再修改 請協助處理,SAP-168(QCI),SD,Master Data,其它,SAP-168,之前請irwinzvfw 現在一點小問題想再,0
+sap can''t login (error code 88),SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap can''t login error code 88,0
+can not logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can not logon sap,0
+帳號無法登入SAP系統.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,帳號sap系統,0
+new sap 218 一直無法登入，會提示帳號密碼錯誤，但昨天之前都還能用。,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,new sap 218 會提示帳號密碼錯誤但之前都還能用,0
+sap 168 帳號被lock,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 168 帳號被lock,0
+"由于SAPLZQSD下的include lzqsduxx.中的include lzqsdu10.   ""Z_GET_REVERSE_PO_FROM_168程式被人清空，使得现在业务无法开立delivery。",SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,saplzqsd下的include lzqsduxx.中的include lzqsdu10.   z_get_reverse_po_from_168程式被人清空現在業務無法開立delivery,0
+密碼key錯被lock住。#11407,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,密碼key錯被lock住,0
+user要查詢78081503(此user主管的帳號)這個帳號在168是否還存在,SAP-168(QCI),Basis,帳號,新申請,SAP-168,此的帳號帳號在168是否還存在,0
+網路正常但卻無法LOGON SAP伺服器,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,網路正常但卻無法logon sap伺服器,0
+請問SAP密碼輸入錯誤 帳號被鎖住 如何修改密碼呢?謝謝。  帳號:95041001,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,請問sap密碼輸入錯誤 帳號被鎖住 密碼呢  帳號,0
+sap無法登入218  分機:12581,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap218,0
+sap printer issue,SAP-168(QCI),Basis,印表機,刪除資料,SAP-168,sap printer,0
+user開SO的時候自動帶出的料號描述是錯誤的 請協助處理,SAP-168(QCI),SD,Sales Process,SO issue,SAP-168,開so的自動帶出的料號描述是錯誤的,0
+用97040708之帳號登入SAP系統，但無法進入ZV17之頁面，煩請幫忙處理，謝謝。 ＃18916,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,用之帳號登入sap系統但zv17之頁面,0
+無法變更價格及日期,SAP-168(QCI),MM,其它,其它,SAP-168,無法變更價格及日期,0
+無法Logon SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法logon sap,0
+"Can''t logon SAP now, pls help.  ext 13264",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can''t logon sap now pls help.,0
+"印表機編號:QACC,請刪除資料",SAP-168(QCI),Basis,印表機,刪除資料,SAP-168,印表機編號qacc請刪除資料,0
+無法登入SAP32  #17380,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap32,0
+t-code : MB1A無法扣帳,SAP-168(QCI),MM,其它,其它,SAP-168,tcode  mb1a無法扣帳,0
+user帳號95091804無法logon in,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,帳號無法logon in,0
+使用者登入後，系統出現error88,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入後系統88,0
+sap 168 連不上,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 168 連不上,0
+user反映無法安裝SAP，請撥電話11740聯絡,SAP-168(QCI),Basis,其它,安裝SAP,SAP-168,無法安裝sap,0
+ZMAW無法扣帳,SAP-168(QCI),MM,W/H,扣帳方式,SAP-168,zmaw無法扣帳,0
+想要詢問如何使用SAP21，因為也看不到ICON  分機：13057,SAP-168(QCI),Basis,帳號,新申請,SAP-168,詢問sap21也看不到icon,0
+cannot login CSAP33 #12113,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,cannot login csap33,0
+can''t login SAP,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,can''t login sap,0
+zv97 can not upload ;zn34 download file 格式不符,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,zv97 can not upload zn34 download file 格式不符,0
+SAP進不去 帳號無法通過,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap進不去 帳號無法通過,0
+SAP 抓不到列印印表機 可是該列表機可正常列印 請協助設定,SAP-168(QCI),Basis,印表機,設定,SAP-168,sap 抓不到列印印表機 該列表機可正常列印 設定,0
+ZMMI，轉倉，新增完單號3140030，無LINK至BPM，分機12381,SAP-168(QCI),MM,其它,其它,SAP-168,zmmi轉倉新增完單號30無link至bpm,0
+SO No. 0096156279 無法created Delivery ..error message:Copying is not poss.because an entry is missing in Table TVCPL: LV...請速與user 連繫.,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,so no.  無法created delivery ..error messagecopying is not poss.because an entry is missing in table tvcpl lv...請速與,0
+SAP 318帳號無法登入。,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap 318帳號,0
+SAP client 168 can not login.  #16971,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap client 168 can not login.,0
+ZV17 and ZV17i無法print,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,zv17 and zv17i無法print,0
+user不會設定印表機 分機#13140,SAP-168(QCI),Basis,印表機,設定,SAP-168,設定印表機,0
+SAP delivry 問題,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,sap delivry 問題,0
+點擊SAP-CSAP37一直無法跳至輸入帳號密碼介面。,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,點擊sapcsap37無法跳至輸入帳號密碼介面,0
+SAP系統可登入但無法開啟頁面，會卡在遠端連線頁面,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap系統可登入但頁面會卡在遠端連線頁面,0
+"User反應連線CS23系統無回應,無法正常使用SAP,煩請協助處理.",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,連線cs23系統無回應無法正常使用sap,0
+密碼嘗試太多次錯誤,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,密碼嘗試太錯誤,0
+"總經理室經管組反應SAP處理速度極慢,USER表示每到月初就會如此,煩請相關同仁協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,總經理室經管組反應sap速度極慢表示每到月初就會相關,0
+在intra system點CSAP35後輸入帳號密碼，出現正在啟動remote app之後就沒出現任何畫面了，請協助處理。#13140,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,在intra system點csap35後輸入帳號密碼出現啟動remote app之後就沒出現畫面了,0
+如何設定printer,SAP-168(QCI),Basis,印表機,設定,SAP-168,設定printer,0
+使用者欲申請sap citrix 帳號，送出資訊需求單後  出現Sap Group ID 項目需填，不知該如何填寫。分機:16242,SAP-168(QCI),Basis,帳號,新申請,SAP-168,欲申請sap citrix 帳號送出資訊需求單後  出現sap group id 項目需填不知該,0
+無法進入sap system,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap system,0
+"新進員工,目前SAP 帳號還無法使用",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,新進員工目前sap 帳號還,0
+無法連線到SAP，出現錯誤訊息如下:  因為通訊協定錯誤，工作階段的連線將被中斷，請嘗試重新連線到遠端電腦,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法連線到sap訊息  通訊協定錯誤工作階段的連線將被中斷請嘗試重新連線到遠端電腦,0
+logon sap 168 fail,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,logon sap 168 fail,0
+"無法登入SAP, 出現the system has reached its licensed logon limit, 請協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap 出現the system has reached its licensed logon limit,0
+GO BOM問題.zkb9/一字階料帶不出來／1EW6000013(只有十碼),SAP-168(QCI),MM,Purchasing,Master data,SAP-168,go bom問題.zkb9/一字階料帶不出來/1ew13十碼,0
+無法正常登入 SAP client 。 ext 17989,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法正常登入 sap client,0
+無法帶出頁面,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法帶出頁面,0
+請協助SAP安裝部份.謝謝  EXT:15092,SAP-168(QCI),Basis,帳號,新申請,SAP-168,sap安裝部份.,0
+使用者的帳號是es002，目前都顯示被Lock，請幫忙處理，謝謝!!,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,的帳號是es002目前都顯示被lock,0
+sap168 profile被lock住 請協助處理,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap168 profile被lock住,0
+詢問NB1帳號有多少？及明細，382-12843,SAP-168(QCI),Basis,帳號,新申請,SAP-168,詢問nb1帳號有及明細,0
+"ASRS System 無法使用,請速與user連繫. #1141",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,asrs system 請速與.,0
+Shipment 2005605090/2005605091 扣帳時發生無法扣帳issue。,SAP-168(QCI),SD,Sales Process,shipment issue,SAP-168,spment / 扣帳時發生無法扣帳,0
+"Printer change , How to set up",SAP-168(QCI),Basis,印表機,刪除資料,SAP-168,printer change  how to set up,0
+SAP22無法使用.,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap22,0
+"Login myquanta, insert 工號, password, 無反應.",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,login myquanta insert  password 無反應,0
+工單號碼313671887數量更改錯誤，從200改錯到80，希能幫忙更正回200。 分機:QSMC 5661393,SAP-168(QCI),PP,工單,工單Create&Change,SAP-168,工單號碼數量更改錯誤從200改錯到80希能幫忙更正回200  93,0
+"分機#26801 申請客戶主檔,急件...請負責人員與USER連絡.",SAP-168(QCI),SD,Master Data,Price mapping issue,SAP-168,申請客戶主檔...請負責人員與,0
+沒有  208  的帳號    group id: rd10  分機:   13637,SAP-168(QCI),Basis,帳號,新申請,SAP-168,沒有  208  的帳號    group id rd10,0
+"user ip : 10.243.12.52,無法連線到SAP 168",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,ip  10.243.12.52無法連線到sap 168,0
+sap無法列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap無法列印,0
+"USER反應說放量之後,PO不支被誰下掉了,請幫忙其處理,分機大陸25779",SAP-168(QCI),QM,其它,問題解決及操作,SAP-168,之後po不支被誰下掉了,0
+user無法登入...(sap23),SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,..sap23,0
+"達丰USER反應使用SAP168 ZKD9勾BOM時應該出現3個料號,但只出現一個,且是錯誤的少了一碼,先前已有類似的情形發生,煩請Charles盡快協助處理.#42650",SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,達豐使用sap168 zkd9勾bom時應該出現3個料號但只出現一個且是錯誤的少了一碼先前已有類情形發生charles,0
+168 登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,168 登入,0
+"User(#13533)反應手動執行ZMAW手動轉出原218有10台,轉至168變20台",SAP-168(QCI),SD,Project,Quotation,SAP-168,反應手動執行zmaw手動轉出原218有10台轉至168變20台,0
+user account無法使用,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,account,0
+"該user想和你討論ZV6T這支程式,請與其聯繫.",SAP-168(QCI),SD,Project,Sub PO,SAP-168,該想和你討論zv6t這支程式,0
+"到My Quanta 內部應用系統,無法登入SAP~請幫忙",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,到my quanta 內部應用系統sap,0
+進sap時輸入帳號密碼後，視窗就消失，無法登入,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,進sap時輸入帳號密碼後視窗就消失,0
+"無法登入SAP系統, 請協助處理!",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap系統,0
+使用者額度已滿，請協助多開帳號  #17860,SAP-168(QCI),Basis,其它,刪除Job,SAP-168,額度已滿多開帳號,0
+詢問開立資訊需求單時，欄位如何填寫。  分機:12193,SAP-168(QCI),Basis,帳號,新申請,SAP-168,詢問開立資訊需求單時欄位,0
+"user 勾BOM process 詢問,請與user連繫",SAP-168(QCI),PP,BOM,BOM Create Error,SAP-168,勾bom process 詢問,0
+"SAP-33 沒法登入 ,出現找不到遠端電腦畫面,　 ext:3761",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,sap33 沒法登入 出現遠端電腦畫面,0
+請盡快協助處理 user使用order type:ZGOR 扣帳扣不進去 special stock not supproted (check your entry),SAP-168(QCI),SD,Master Data,Return/Reverse order type,SAP-168,使用order typezgor 扣帳扣不進去 special stock not supproted check your entry,0
+"user反應處理信用狀作業時,退料單號969在欲列印輸出時,顯示的資料為968的資料,煩請相關同仁協助處理",SAP-168(QCI),SD,Sales Process,GI issue,SAP-168,信用狀作業時退料單號969在欲列印輸出時顯示的資料為968的資料相關,0
+168 zkd5 料號出不來,SAP-168(QCI),PP,Master Data,料號問題,SAP-168,168 zkd5 料號出不來,0
+"使用第一層帳號92022406登入, 原本可下載料號資料, 現在變成沒有權限",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,使用第一層帳號登入 原本可下載料號資料 現在變成沒有權限,0
+"轉部門, SAP帳號希望轉給其他同事(94071901)使用    #18253",SAP-168(QCI),Basis,帳號,新申請,SAP-168,轉部門 sap帳號希望轉給使用,0
+user欲申請帳號,SAP-168(QCI),Basis,帳號,新申請,SAP-168,欲申請帳號,0
+47PO入料有問題,SAP-168(QCI),MM,W/H,問題解決及操作,SAP-168,47po入料有問題,0
+"使用者反應連線到Quanta EIP的內部應用時,看不到SAP的圖示,煩請協助處理",SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,連線到quanta eip的內部應用時看不到sap的圖示,0
+"user來電詢問SAP Server的連線位置,已協助處理",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,來電詢問sap server的連線位置,0
+畫面一直停在remote app登不進去,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,畫面停在remote app登不進去,0
+can''t print out,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,can''t print out,0
+"user反應,之前簽過了表單,但是因為這幾天部門代號換了,扣帳那邊說無法扣,不知該如何進行?",SAP-168(QCI),SD,Sales Process,GI issue,SAP-168,之前簽過了表單這幾天部門代號換了扣帳說無法扣不知該進行,0
+caeate Delivery issue,SAP-168(QCI),SD,Sales Process,Delivery issue,SAP-168,caeate delivery,0
+使用者已裝了cirtix，但無法在內部應用系統的網頁中看到SAP的icon,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,已裝了cirtix但無法在內部應用系統的網頁中看到sap的icon,0
+can''t log in SAP,SAP-168(QCI),Basis,Authorization,權限不足,SAP-168,can''t log in sap,0
+"SAP can not find the code ""ZCEA""",SAP-168(QCI),Basis,其它,Performance Issue,SAP-168,sap can not find the code zcea,0
+"user反應使用SAP 168-old出現帳號被locked的狀況,請協助處理 #12971",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,使用sap 168old出現帳號被locked的狀況,0
+SAP Printer fail QMQ1,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,sap printer fail qmq1,0
+user(#13222)反應SAP無法使用，包含168及2X8,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,反應sap包含168及2x8,0
+使用者無法 Login SAP.,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,無法 login sap,0
+"user 說要登入168 系統時 一直出現密碼錯誤, 以致無法登入  分機#11254",SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,說要登入168 系統時 出現密碼錯誤,0
+# 17295 SAP LOGIN ERROR,SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,sap login error,0
+料號23UJ3LAJN00   在MD04看的到  但在ZQE2看不到  料號有確實被create?    TEL:382-5622751,SAP-168(QCI),PP,Master Data,料號問題,SAP-168,料號23uj3lajn00   在md04看的到  但在zqe2看不到  料號有確實被create    51,0
+User 無法透過 Thin Client 列印,SAP-168(QCI),Basis,印表機,無法列印,SAP-168,無法透過 tn client 列印,0
+今天登入不進去,SAP-168(QCI),Basis,帳號,帳號無法使用,SAP-168,登入不進去,0
+"使用者忘記 ECN帳號密碼,無法登入.",SAP-168(QCI),PP,ECN,ECN 未同步QSMC,SAP-168,忘記 ecn帳號密碼,0
+"User反應無法登入使用CSAP２７,經VNC查看畫面發現錯誤訊息為連線數已達上限,煩請協助處理.",SAP-168(QCI),Basis,其它,無法logon SAP,SAP-168,使用csap27經vnc查看畫面發現錯誤訊息為連線數已達上限,0
