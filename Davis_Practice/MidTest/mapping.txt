@@ -1,0 +1,5 @@
+rika, 0
+risa, 1
+yui, 2
+akane, 3
+neru, 4
